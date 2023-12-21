@@ -1,0 +1,4 @@
+	- what am i moving towards (the desired state or outcome)
+	- why am i moving (the values that guide you)
+	- how will i get there (strategy for the journey)
+	- what if something goes wrong (risk management and contindency planning)
