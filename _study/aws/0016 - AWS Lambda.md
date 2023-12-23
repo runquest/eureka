@@ -1,4 +1,4 @@
-[[study/aws/000 Index]]
+[[_study/aws/000 Index]]
 [AWS Lambda documentation](https://aws.amazon.com/lambda/)
 
 Other Resources:

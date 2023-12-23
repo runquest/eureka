@@ -1,4 +1,4 @@
-[[study/aws/000 Index]]
+[[_study/aws/000 Index]]
 
 AWS global architecture refers to the underlying infrastructure and network design of Amazon Web Services (AWS) that enables it to provide highly available, scalable, and reliable cloud computing services to its customers worldwide.
 
