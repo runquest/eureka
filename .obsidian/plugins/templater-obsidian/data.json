@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "journal/_daily",
+      "template": "templates/Daily note template.md"
+    },
+    {
+      "folder": "journal/_weekly",
+      "template": "templates/Weekly note template.md"
+    },
+    {
+      "folder": "_my/_team",
+      "template": "templates/1on1 template.md"
     }
   ],
   "syntax_highlighting": true,

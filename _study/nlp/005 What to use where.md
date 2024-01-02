@@ -15,20 +15,20 @@
 problems or confusion about roles and boundaries*
 
 **Task and relationship**
-*work related wv. related to other people*
+*work related vs. related to other people*
 
 -----
 
 ### Type of problem & NLP Intervention
 
-*Clarity abobut values* -> [[Presuppositions]]
+*Clarity about values* -> [[Presuppositions]]
 *Difficult relationships*
 -> [[Developing second position]]
 -> [[perceptual position alignment]]
 -> [[Meta Model]] Mirror
 -> [[Matching]]
 -> [[TOTE]] contrast
-*Lack of direction* -> [[Outcomes]]
+*Lack of direction* -> [[outcomes]]
 *Unproductive meetings*
 -> [[Meeting exercise]]
 -> [[Negotiation skills]]
@@ -55,5 +55,5 @@ problems or confusion about roles and boundaries*
 -> Context [[reframing]]
 -> [[Meta Model]] - comparisons
 *Life planning*
--> Long-term [[Outcomes]]
+-> Long-term [[outcomes]]
 -> [[HUGGS]]

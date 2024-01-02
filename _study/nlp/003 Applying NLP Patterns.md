@@ -27,7 +27,7 @@
 *What is your otucome? If you are working with a client, what is their outcome? Elicit the client's outcome with minimum well-formed conditions*
 
 **Main skills used**
-* [[Outcomes]] questions
+* [[outcomes]] questions
 * the [[Meta Model]]
 
 ## 5. Resources

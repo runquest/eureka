@@ -2,7 +2,7 @@
 
 Neurological levels all connect to each other and all influence each other. 
 
-Neuroological levels separate the deed from the person. **You are not your behaviour.**
+Neurological levels separate the deed from the person. **You are not your behaviour.**
 
 Useful for outcome setting.
 *You can specify your outcomes by:*
@@ -10,7 +10,7 @@ Useful for outcome setting.
 - how you want to act
 - what skills you want
 - what attitudes and beliefs you want to adopt
-- what sort of preson you want to be
+- what sort of person you want to be
 
 [[Outcome thinking]] is a skill - an approach you take to all the decisions you make. It aligns with you beliefs and values when you see how well it works and when it becomes an important principle in your life. It reaches the identity level when you become the sort of person who moves towards what you want in your life instead of leaving it chace or for other people to decide.
 
@@ -18,7 +18,7 @@ Useful for outcome setting.
 
 ### 1 Environment
 *the where and the when*
-The environment is the place, the time and the people involved. You set the boundary on what to include. You may be successful only in specific circustmances or with particular people - *being in the right place at the right time*
+The environment is the place, the time and the people involved. You set the boundary on what to include. You may be successful only in specific circumstances or with particular people - *being in the right place at the right time*
 
 ### 2 Behaviour
 *the what*
@@ -36,7 +36,7 @@ In organization - business processes & procedures. Visible only in the resulting
 
 Beliefs are the principles that guide actions. Beliefs give meaning to what we do. Values are why we do what we do. They are what is important to us - health, wealth, happiness and love. 
 
-In organization - business have principels they act on and values they hold. 
+In organization - business have principles they act on and values they hold. 
 
 They are part of the culture of the business. Beliefs and values direct our lives, acting both as permissions and prohibitions on how we act.
 

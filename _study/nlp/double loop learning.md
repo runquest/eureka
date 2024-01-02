@@ -1,6 +1,6 @@
 #generativelearning #learning
 
-Generative learning brings our beliefs and assumptions about the issue into the feedback loop. Feedback from our actions leads us to questioni our assumptions. 
+Generative learning brings our beliefs and assumptions about the issue into the feedback loop. Feedback from our actions leads us to question our assumptions. 
 
 **Questions to ask:** 
 * What are my assumptions about this?

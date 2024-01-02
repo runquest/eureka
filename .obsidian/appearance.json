@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Pisum"
+  "cssTheme": "Pisum",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter"
 }
