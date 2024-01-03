@@ -5,12 +5,12 @@ gym:
 sleep: 
 pain a.m.: 
 pain p.m.: 
-week: '[[<% moment(tp.file.title).format("gggg-[W]ww")%>]]'
+week: '[[Invalid date]]'
 ---
 
 
-[[journal/_daily/<%tp.date.now("YYYY-MM-DD",-1,tp.file.title,"YYYY-MM-DD")%>|Yesterday]] <-> [[journal/daily/<%tp.date.now("YYYY-MM-DD",+1,tp.file.title,"YYYY-MM-DD")%>|Tomorrow]]
-[[<%moment(tp.file.title.format("gggg-[W]ww"))%>|Weekly summary]]
+[[journal/_daily/0011-01-31|Yesterday]] <-> [[journal/daily/0011-02-02|Tomorrow]]
+[[Invalid date|Weekly summary]]
 
 
 ### Journal

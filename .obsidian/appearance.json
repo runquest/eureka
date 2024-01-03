@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Pisum",
+  "cssTheme": "Solarized",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Inter"
+  "monospaceFontFamily": "Inter",
+  "baseFontSize": 13
 }

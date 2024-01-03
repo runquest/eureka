@@ -5,3 +5,7 @@
 - [ ] Get environments working 
 - [x] Deploy Obsidian #process
 - [ ] Get organized #process
+
+
+
+
