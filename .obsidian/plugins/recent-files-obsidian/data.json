@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-03 1",
+      "path": "000 - 📝 journal/_daily/2024-01-03 1.md"
+    },
+    {
+      "basename": "index",
+      "path": "001 - ⭕️ sboard/index.md"
+    },
+    {
+      "basename": "SBoard - Landing Page",
+      "path": "001 - ⭕️ sboard/SBoard - Landing Page.md"
+    },
+    {
+      "basename": "Publish landing page",
+      "path": "Publish landing page.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
       "basename": "index",
       "path": "003 - 🎾 vta/index.md"
     },
     {
       "basename": "2024-01-02",
       "path": "000 - 📝 journal/_daily/2024-01-02.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "index",
@@ -23,22 +39,6 @@
     {
       "basename": "End of year - what is next",
       "path": "002 - 📍 my/_team/_1on1/_ben/End of year - what is next.md"
-    },
-    {
-      "basename": "009 - Weekly US Launch Update",
-      "path": "002 - 📍 my/_meetings/009 - Weekly US Launch Update.md"
-    },
-    {
-      "basename": "2024 Rules & Expectations",
-      "path": "002 - 📍 my/_areas/_engineering/2024 Rules & Expectations.md"
-    },
-    {
-      "basename": "009 - BoldBuild Briefing",
-      "path": "002 - 📍 my/_meetings/009 - BoldBuild Briefing.md"
-    },
-    {
-      "basename": "People OKRs 2024 Q1 proposal",
-      "path": "002 - 📍 my/_archive/People OKRs 2024 Q1 proposal.md"
     }
   ],
   "omittedPaths": [],
