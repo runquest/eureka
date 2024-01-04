@@ -1,44 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "index",
-      "path": "003 - 🎾 vta/index.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "JIRA Projects - Step up to QMS",
+      "path": "002 - 📍 my/_projects/JIRA Projects - Step up to QMS.md"
+    },
+    {
+      "basename": "January 3 - How to move forward",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/January 3 - How to move forward.md"
     },
     {
       "basename": "009 - BoldBuild Briefing",
       "path": "002 - 📍 my/_meetings/009 - BoldBuild Briefing.md"
     },
     {
-      "basename": "People OKRs 2024 Q1 proposal",
-      "path": "002 - 📍 my/_archive/People OKRs 2024 Q1 proposal.md"
+      "basename": "2024-01-03",
+      "path": "000 - 📝 journal/_daily/2024-01-03.md"
     },
     {
       "basename": "index",
-      "path": "002 - 📍 my/index.md"
+      "path": "002 - 📍 my/_meetings/index.md"
     },
     {
-      "basename": "clean up data on staging & production",
-      "path": "002 - 📍 my/clean up data on staging & production.md"
+      "basename": "Meet Conor",
+      "path": "002 - 📍 my/_team/Meet Conor.md"
     },
     {
-      "basename": "Review JIRA",
-      "path": "Review JIRA.md"
+      "basename": "Jan 3 - Productivity",
+      "path": "002 - 📍 my/_team/_1on1/_ravneet/Jan 3 - Productivity.md"
     },
     {
-      "basename": "2024-01-02",
-      "path": "000 - 📝 journal/_daily/2024-01-02.md"
+      "basename": "End of year - what is next",
+      "path": "002 - 📍 my/_team/_1on1/_ravneet/End of year - what is next.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "2023 Summary",
-      "path": "002 - 📍 my/_areas/_engineering/2023 Summary.md"
-    },
-    {
-      "basename": "009 - Weekly US Launch Update",
-      "path": "002 - 📍 my/_meetings/009 - Weekly US Launch Update.md"
+      "basename": "1on1 template",
+      "path": "900 - templates/1on1 template.md"
     }
   ],
   "omittedPaths": [],
