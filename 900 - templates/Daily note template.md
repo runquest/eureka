@@ -1,14 +1,12 @@
 ---
-wake up: 5:45 am
+wake up: 
 movement: 
 gym: 
 sleep: 
 pain a.m.: 
 pain p.m.: 
-week: '[[Invalid date]]'
+week: "[[2024-W01]]"
 ---
-
-
 [[journal/_daily/0011-01-31|Yesterday]] <-> [[journal/daily/0011-02-02|Tomorrow]]
 [[Invalid date|Weekly summary]]
 
