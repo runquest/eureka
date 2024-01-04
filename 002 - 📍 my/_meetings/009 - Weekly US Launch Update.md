@@ -2,9 +2,9 @@
 #### Topic: OKRs for 2024
 ----
 ##### Tasks
-- [ ] Summarize *end of year* event #my 
-- [ ] Do we have dummy accounts in production? #my 
-- [ ] Help Joe with People's OKRs
+- [ ] Summarize *end of year* event #my #aiste
+- [ ] Do we have dummy accounts in production? #my #aiste 
+- [x] Help Joe with People's OKRs
 ##### Thoughts
 - People's OKRs are uninspiring, vague, and not really thought through
 - Finding product market fit is a great OKR, however there are too many team related Key Results, that it is unmanageable. 

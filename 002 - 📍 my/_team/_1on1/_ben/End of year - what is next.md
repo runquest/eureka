@@ -16,7 +16,7 @@ tags:
 ### Action points from last meeting
 
 ### Action points today
-- [ ] PDF Report deployed to Penguin
-- [ ] PDF Report deployed to Staging
+- [x] PDF Report deployed to Penguin
+- [x] PDF Report deployed to Staging
 - [ ] Action mailer
 - [ ] Active Job
