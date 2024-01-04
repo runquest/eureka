@@ -6,7 +6,8 @@ direction: right
 landing page -> email -> read
 ```
 #### To do:
-- [ ] [[SBoard - Landing Page]] #web #marketing #sboard 
+- [x] [[SBoard - Landing Page]] #web #marketing #sboard 
+- [ ] Email Lindsay
 - [ ] Promote on LinkedIn #web #markerting
 
 #### Thoughts
@@ -22,5 +23,9 @@ Next steps are to set up linked in adds and maybe even a Linked in page.
 
 #### To do
 - [ ] LinkedIn page
-- [ ] Figure out how to see traffic
+- [x] Figure out how to see traffic
+- [ ] Should I build an subscription email
+- [ ] Should we write a book
+- [ ] Should we test quora to start with?
+- [ ] Should we get super active on LinkedIn
 

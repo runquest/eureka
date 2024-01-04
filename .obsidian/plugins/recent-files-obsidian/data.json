@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-03 1",
-      "path": "000 - 📝 journal/_daily/2024-01-03 1.md"
+      "basename": "009 - BoldBuild Briefing",
+      "path": "002 - 📍 my/_meetings/009 - BoldBuild Briefing.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "2024-01-02",
+      "path": "000 - 📝 journal/_daily/2024-01-02.md"
+    },
+    {
+      "basename": "2024-01-04",
+      "path": "000 - 📝 journal/_daily/2024-01-04.md"
+    },
+    {
+      "basename": "2023-12-24",
+      "path": "000 - 📝 journal/_daily/2023-12-24.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "900 - templates/Daily note template.md"
     },
     {
       "basename": "index",
       "path": "001 - ⭕️ sboard/index.md"
+    },
+    {
+      "basename": "2024-01-03 1",
+      "path": "000 - 📝 journal/_daily/2024-01-03 1.md"
     },
     {
       "basename": "SBoard - Landing Page",
@@ -15,30 +39,6 @@
     {
       "basename": "Publish landing page",
       "path": "Publish landing page.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "index",
-      "path": "003 - 🎾 vta/index.md"
-    },
-    {
-      "basename": "2024-01-02",
-      "path": "000 - 📝 journal/_daily/2024-01-02.md"
-    },
-    {
-      "basename": "index",
-      "path": "002 - 📍 my/index.md"
-    },
-    {
-      "basename": "End of year priorities",
-      "path": "002 - 📍 my/_team/_1on1/_erick/End of year priorities.md"
-    },
-    {
-      "basename": "End of year - what is next",
-      "path": "002 - 📍 my/_team/_1on1/_ben/End of year - what is next.md"
     }
   ],
   "omittedPaths": [],

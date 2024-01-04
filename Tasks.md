@@ -5,7 +5,6 @@ TASK
 FROM "000 - 📝 journal"
 WHERE !completed
 ```
-
 ---
 #### Ideas
 
@@ -19,4 +18,10 @@ TASK
 FROM "002 - 📍 my"
 WHERE !completed
 WHERE contains(text, "#my #aiste")
+```
+##### TO DO from VTA
+```dataview
+TASK 
+FROM "003 - 🎾 vta"
+WHERE !completed
 ```
