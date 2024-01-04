@@ -11,7 +11,7 @@ tags:
 * seed data
 * kids sick
 ### What is on Ravneet's mind?
-* what is for next year [[002 - 📍 my/_team/_1on1/_skyler/End of year - what is next|End of year - what is next]]
+* what is for next year [[Dec 21 - Skyler - End of year - what is next|Dec 21 - Skyler - End of year - what is next]]
 ### Projects
 
 ##### Onboarding
@@ -20,7 +20,7 @@ tags:
 - #skyler is very patient and helpful
 - Got her first bug fix
 ##### Frontend 
-what is for next year [[002 - 📍 my/_team/_1on1/_skyler/End of year - what is next|End of year - what is next]]
+what is for next year [[Dec 21 - Skyler - End of year - what is next|Dec 21 - Skyler - End of year - what is next]]
 ### Action points from last meeting
 - [x] Set up local environment
 - [x] Seeded with existing seed data
