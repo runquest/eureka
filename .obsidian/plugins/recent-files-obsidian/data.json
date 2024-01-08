@@ -1,32 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-04",
-      "path": "000 - 📝 journal/_daily/2024-01-04.md"
+      "basename": "index",
+      "path": "002 - 📍 my/index.md"
     },
     {
       "basename": "Tasks",
       "path": "Tasks.md"
     },
     {
-      "basename": "2024-01-05",
-      "path": "000 - 📝 journal/_daily/2024-01-05.md"
+      "basename": "2024-01-08",
+      "path": "000 - 📝 journal/_daily/2024-01-08.md"
     },
     {
-      "basename": "Jeff Bezos + Lexi - Youtube 2 hour podcast",
-      "path": "900 - articles/Jeff Bezos + Lexi - Youtube 2 hour podcast.md"
+      "basename": "2024-01-02",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-02.md"
+    },
+    {
+      "basename": "0011-01-31",
+      "path": "journal/_daily/0011-01-31.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "900 - templates/Daily note template.md"
+    },
+    {
+      "basename": "1on1 template",
+      "path": "900 - templates/1on1 template.md"
     },
     {
       "basename": "2024-01-07",
-      "path": "000 - 📝 journal/_daily/2024-01-07.md"
+      "path": "000 - 📝 journal/_daily/W01/2024-01-07.md"
     },
     {
-      "basename": "5 Blindspots Founders Need to Understand When Proving Product Market Fit",
-      "path": "900 - articles/5 Blindspots Founders Need to Understand When Proving Product Market Fit.md"
+      "basename": "2024-W01",
+      "path": "000 - 📝 journal/_weekly/2024-W01.md"
     },
     {
-      "basename": "Reflect every 6 weeks - Heartbeats",
-      "path": "_sources/Reflect every 6 weeks - Heartbeats.md"
+      "basename": "clean up data on staging & production",
+      "path": "002 - 📍 my/clean up data on staging & production.md"
     }
   ],
   "omittedPaths": [],
