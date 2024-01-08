@@ -1,8 +1,9 @@
 ##### TO DO from journal
 ```dataview
 TASK 
-FROM "000 - 📝 journal"
+FROM "000 - 📝 journal/_daily"
 WHERE !completed
+WHERE !contains(text, "#daily")
 ```
 ---
 #### Ideas
