@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "002 - 📍 my/index.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Tasks.md"
     },
@@ -39,6 +43,28 @@
     {
       "basename": "Dec 21 - Skyler - End of year - what is next",
       "path": "002 - 📍 my/_team/_1on1/_skyler/Dec 21 - Skyler - End of year - what is next.md"
+      "basename": "0011-01-31",
+      "path": "journal/_daily/0011-01-31.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "900 - templates/Daily note template.md"
+    },
+    {
+      "basename": "1on1 template",
+      "path": "900 - templates/1on1 template.md"
+    },
+    {
+      "basename": "2024-01-07",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-07.md"
+    },
+    {
+      "basename": "2024-W01",
+      "path": "000 - 📝 journal/_weekly/2024-W01.md"
+    },
+    {
+      "basename": "clean up data on staging & production",
+      "path": "002 - 📍 my/clean up data on staging & production.md"
     }
   ],
   "omittedPaths": [],

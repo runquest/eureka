@@ -2,8 +2,8 @@
 
 *2023 December 6*
 
-- [ ] Team captains communication: Promote Cup participation to all members, in an upcoming newsletter. #vta #aiste
-Provide some details (eg. testimonials?) from past Members, about what the Cups are, who are captains, how to get involved.
+- [x] Team captains communication: Promote Cup participation to all members, in an upcoming newsletter. #vta #aiste
+	Provide some details (eg. testimonials?) from past Members, about what the Cups are, who are captains, how to get involved.
 - [ ] To plan a ‘Captain’s Summit’ for January 2024 to discuss cup practices, community building strategies, etc.** #vta #aiste
 
 * Vancouver is hosting *Canada Pride* this year
