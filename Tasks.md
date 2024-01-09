@@ -34,3 +34,9 @@ TASK
 FROM "003 - 🎾 vta"
 WHERE !completed
 ```
+### TO DO from SBOARD
+```dataview
+TASK 
+FROM "001 - ⭕️ sboard"
+WHERE !completed
+```
