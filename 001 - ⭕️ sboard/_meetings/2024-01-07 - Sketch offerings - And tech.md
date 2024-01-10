@@ -16,6 +16,9 @@
 - [ ] Update website color pallette #sboard #aiste 
 - [ ] Update website #sboard #aiste 
 - [ ] Source location where we can make it #sboard #aiste 
+- [ ] Maybe start with questionnaire to the network #sboard #aiste
+	- maybe online to kick off is a good idea
+	- maybe even starting with questionnaire
 - [ ] Share event on LinkedIn #sboard #aiste 
 - [ ] Sketch draft for volunteers mentors #sboard #aiste 
 - [ ] Sketch draft letter to participants #sboard #aiste 

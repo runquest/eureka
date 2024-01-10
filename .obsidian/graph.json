@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "1on1",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.067966445440037,
+  "scale": 0.5182855427448654,
   "close": true
 }

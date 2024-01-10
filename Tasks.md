@@ -21,7 +21,11 @@ how to publish documentation for everyone to see?
 - [x] Archive JIRA boards
 - [ ] Prepare for HIPAA project 
 - [ ] Set up question of the day
+- [x] Set up Ignacio with all the access
 - [x] Make SequalAce work
+- [x] Duo for Brandon
+- [ ] Read through Vanta
+- [ ] Read through Policies
 ```dataview
 TASK 
 FROM "002 - 📍 my"

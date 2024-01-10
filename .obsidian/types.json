@@ -8,7 +8,7 @@
     "pain a.m.": "number",
     "pain p.m.": "number",
     "Topics": "multitext",
-    "created at": "text",
+    "created at": "date",
     "Back Exercise": "checkbox"
   }
 }
