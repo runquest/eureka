@@ -43,7 +43,3 @@ WHERE !completed
 ```
 
 ### Action points today
-
-- [ ] Display + Unit object to work on - separate ticket
-- [ ] Separate tickets to address sort order - separate ticket
-- [ ] Document local stack Puppeteer
