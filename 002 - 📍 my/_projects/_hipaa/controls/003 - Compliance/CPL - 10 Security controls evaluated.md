@@ -7,5 +7,5 @@ Company performs a periodic technical and nontechnical evaluation, based initial
 * High vulnerabilities addressed
 
 ### Tasks
-- [ ] Review HIPAA security rule (subpart C) #illuminati 
+- [ ] READ: HIPAA security rule (subpart C) #illuminati 
 - [ ] Create Security ticket management workflow #illuminati 

@@ -1,20 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "IAC - 30 Termination procedures established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 30 Termination procedures established.md"
+      "basename": "Jan 11 - Erick",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 11 - Erick.md"
+    },
+    {
+      "basename": "Jan 4 - Erick -",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 4 - Erick -.md"
+    },
+    {
+      "basename": "Dec 21 - Erick - End of year priorities",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Dec 21 - Erick - End of year priorities.md"
+    },
+    {
+      "basename": "Jan 4 - Carin - What is next",
+      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 4 - Carin - What is next.md"
+    },
+    {
+      "basename": "Jan 11 - Carin - First weeks",
+      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 11 - Carin - First weeks.md"
+    },
+    {
+      "basename": "Jan 11 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 11 - Vlad.md"
+    },
+    {
+      "basename": "Jan 4 - Vlad - 1",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 4 - Vlad - 1.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "CPL - 10 Security controls evaluated",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/003 - Compliance/CPL - 10 Security controls evaluated.md"
     },
     {
       "basename": "Tasks",
       "path": "002 - 📍 my/_projects/_hipaa/Tasks.md"
     },
     {
-      "basename": "GOV - 35 Policies and procedures activity documented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 35 Policies and procedures activity documented.md"
+      "basename": "BCD - 16 Data backed up and stored",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/BCD - 16 Data backed up and stored.md"
+    },
+    {
+      "basename": "BCD - 14 Contingency plan established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/BCD - 14 Contingency plan established.md"
     },
     {
       "basename": "BCD - 12 Application and data criticality analyzed",
       "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 12 Application and data criticality analyzed.md"
+    },
+    {
+      "basename": "BCD - 13 Contingency operations established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/BCD - 13 Contingency operations established.md"
+    },
+    {
+      "basename": "IAC - 30 Termination procedures established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 30 Termination procedures established.md"
+    },
+    {
+      "basename": "GOV - 35 Policies and procedures activity documented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 35 Policies and procedures activity documented.md"
     },
     {
       "basename": "index",
@@ -63,10 +111,6 @@
     {
       "basename": "IAC - 35 Workforce security implemented",
       "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 35 Workforce security implemented.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "HRS - 17 Sanction policy applied",
@@ -129,10 +173,6 @@
       "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 13 Data transmission encrypted.md"
     },
     {
-      "basename": "CPL - 10 Security controls evaluated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/003 - Compliance/CPL - 10 Security controls evaluated.md"
-    },
-    {
       "basename": "BCD - 19 Emergency mode operation plan established",
       "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 19 Emergency mode operation plan established.md"
     },
@@ -159,42 +199,6 @@
     {
       "basename": "BCD - 15 Contingency plan tested and revised",
       "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 15 Contingency plan tested and revised.md"
-    },
-    {
-      "basename": "BCD - 14 Contingency plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 14 Contingency plan established.md"
-    },
-    {
-      "basename": "BCD - 13 Contingency operations established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 13 Contingency operations established.md"
-    },
-    {
-      "basename": "AST - 15 Media removal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 15 Media removal policies implemented.md"
-    },
-    {
-      "basename": "AST - 14 Media re-use procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 14 Media re-use procedures implemented.md"
-    },
-    {
-      "basename": "AST - 13 Device and media movement recorded",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 13 Device and media movement recorded.md"
-    },
-    {
-      "basename": "2024-01-07 - Sketch offerings - And tech",
-      "path": "001 - ⭕️ sboard/_meetings/2024-01-07 - Sketch offerings - And tech.md"
-    },
-    {
-      "basename": "Jan 10 - Ben -",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 10 - Ben -.md"
-    },
-    {
-      "basename": "2024-01-10",
-      "path": "000 - 📝 journal/_daily/2024-01-10.md"
-    },
-    {
-      "basename": "Jan 3 - Healthy Feedback",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 3 - Healthy Feedback.md"
     }
   ],
   "omittedPaths": [],

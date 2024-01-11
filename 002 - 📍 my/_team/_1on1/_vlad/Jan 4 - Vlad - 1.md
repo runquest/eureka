@@ -12,12 +12,12 @@ Topics:
 
 * Sagan december 19th asked but never followed up
 * Primary focus: Infrastructure as Code
-	*  [ ] Finish ephemeral environment to be almost automatic to launch - show & tell
+	* [x] Finish ephemeral environment to be almost automatic to launch - show & tell
 ### What is on Aiste's mind?
 
 
 - JIRA & What is left
-	- [ ] Deliverable: Jira organized next Thursday
+	- [x] Deliverable: Jira organized next Thursday
 - Laptops - on hold 
 - School
 	- Significantly smaller school load - next week until end April
