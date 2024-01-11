@@ -1,0 +1,1 @@
+The company reviews documentation periodically, and updates as needed, in response to environmental or operational changes affecting the security of electronic protected health information (ePHI).

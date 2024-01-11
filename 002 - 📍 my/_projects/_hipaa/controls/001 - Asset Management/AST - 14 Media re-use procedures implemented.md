@@ -6,4 +6,4 @@ The company has implemented procedures for removal of electronic protected healt
 [[HIPAA Compliance Policy]]
 ### Tasks
 
-- [ ] Link document in document where instructions are written
+- [ ] Link document in document where instructions are written #illuminati 

@@ -1,6 +1,186 @@
 {
   "recentFiles": [
     {
+      "basename": "IAC - 30 Termination procedures established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 30 Termination procedures established.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "002 - 📍 my/_projects/_hipaa/Tasks.md"
+    },
+    {
+      "basename": "GOV - 35 Policies and procedures activity documented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 35 Policies and procedures activity documented.md"
+    },
+    {
+      "basename": "BCD - 12 Application and data criticality analyzed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 12 Application and data criticality analyzed.md"
+    },
+    {
+      "basename": "index",
+      "path": "002 - 📍 my/_projects/_hipaa/index.md"
+    },
+    {
+      "basename": "IAC - 24 Access authorized",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 24 Access authorized.md"
+    },
+    {
+      "basename": "IAC - 25 Access controls applied",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 25 Access controls applied.md"
+    },
+    {
+      "basename": "IAC - 26 Access established, reviewed and modified",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 26 Access established, reviewed and modified.md"
+    },
+    {
+      "basename": "IAC - 27 Workforce authorized and supervised",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 27 Workforce authorized and supervised.md"
+    },
+    {
+      "basename": "IAC - 28 Log-off automated",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 28 Log-off automated.md"
+    },
+    {
+      "basename": "IAC - 29 Emergency access procedures established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 29 Emergency access procedures established.md"
+    },
+    {
+      "basename": "IAC - 31 Information access managed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 31 Information access managed.md"
+    },
+    {
+      "basename": "IAC - 32 Person or entities authenticated",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 32 Person or entities authenticated.md"
+    },
+    {
+      "basename": "IAC - 33 Unique user identified",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 33 Unique user identified.md"
+    },
+    {
+      "basename": "IAC - 34 Workforce clearance procedures implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 34 Workforce clearance procedures implemented.md"
+    },
+    {
+      "basename": "IAC - 35 Workforce security implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 35 Workforce security implemented.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "HRS - 17 Sanction policy applied",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/008 - Human Resources Security/HRS - 17 Sanction policy applied.md"
+    },
+    {
+      "basename": "GOV - 42 Workstation security policies implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 42 Workstation security policies implemented.md"
+    },
+    {
+      "basename": "GOV - 41 Security responsibility assigned",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 41 Security responsibility assigned.md"
+    },
+    {
+      "basename": "GOV - 40 Security violations managed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 40 Security violations managed.md"
+    },
+    {
+      "basename": "GOV - 39 Policies and procedures updated",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 39 Policies and procedures updated.md"
+    },
+    {
+      "basename": "GOV - 38 Policies and procedures documented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 38 Policies and procedures documented.md"
+    },
+    {
+      "basename": "GOV - 37 Policies and procedures created",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 37 Policies and procedures created.md"
+    },
+    {
+      "basename": "GOV - 36 Policies and procedures available",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 36 Policies and procedures available.md"
+    },
+    {
+      "basename": "GOV - 34 HIPAA security officer",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 34 HIPAA security officer.md"
+    },
+    {
+      "basename": "END - 5 Workstation security implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/006 - Endpoint Security/END - 5 Workstation security implemented.md"
+    },
+    {
+      "basename": "DCH - 21 Data retention and time limit",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/005 - Data Classification & Handling/DCH - 21 Data retention and time limit.md"
+    },
+    {
+      "basename": "CRY - 15 Data transmission secured",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 15 Data transmission secured.md"
+    },
+    {
+      "basename": "CRY - 14 Data transmission integrity maintained",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 14 Data transmission integrity maintained.md"
+    },
+    {
+      "basename": "CRY - 12 Encryption and decryption controls implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 12 Encryption and decryption controls implemented.md"
+    },
+    {
+      "basename": "CRY - 13 Data transmission encrypted",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 13 Data transmission encrypted.md"
+    },
+    {
+      "basename": "CPL - 10 Security controls evaluated",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/003 - Compliance/CPL - 10 Security controls evaluated.md"
+    },
+    {
+      "basename": "BCD - 19 Emergency mode operation plan established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 19 Emergency mode operation plan established.md"
+    },
+    {
+      "basename": "BCD - 18 Disaster recovery plan established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 18 Disaster recovery plan established.md"
+    },
+    {
+      "basename": "AST - 12 Device and media disposal policies implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
+    },
+    {
+      "basename": "BCD - 17 Data backup plan implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 17 Data backup plan implemented.md"
+    },
+    {
+      "basename": "BCD - 16 Data backed up and stored",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 16 Data backed up and stored.md"
+    },
+    {
+      "basename": "Objectives'24",
+      "path": "Objectives'24.md"
+    },
+    {
+      "basename": "BCD - 15 Contingency plan tested and revised",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 15 Contingency plan tested and revised.md"
+    },
+    {
+      "basename": "BCD - 14 Contingency plan established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 14 Contingency plan established.md"
+    },
+    {
+      "basename": "BCD - 13 Contingency operations established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 13 Contingency operations established.md"
+    },
+    {
+      "basename": "AST - 15 Media removal policies implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 15 Media removal policies implemented.md"
+    },
+    {
+      "basename": "AST - 14 Media re-use procedures implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 14 Media re-use procedures implemented.md"
+    },
+    {
+      "basename": "AST - 13 Device and media movement recorded",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 13 Device and media movement recorded.md"
+    },
+    {
       "basename": "2024-01-07 - Sketch offerings - And tech",
       "path": "001 - ⭕️ sboard/_meetings/2024-01-07 - Sketch offerings - And tech.md"
     },
@@ -15,86 +195,6 @@
     {
       "basename": "Jan 3 - Healthy Feedback",
       "path": "002 - 📍 my/_team/_1on1/_ben/Jan 3 - Healthy Feedback.md"
-    },
-    {
-      "basename": "Jan 10 - Ravneet",
-      "path": "002 - 📍 my/_team/_1on1/_ravneet/Jan 10 - Ravneet.md"
-    },
-    {
-      "basename": "Dec 21 - Ravneet - End of year - what is next",
-      "path": "002 - 📍 my/_team/_1on1/_ravneet/Dec 21 - Ravneet - End of year - what is next.md"
-    },
-    {
-      "basename": "Jan 3 - Productivity",
-      "path": "002 - 📍 my/_team/_1on1/_ravneet/Jan 3 - Productivity.md"
-    },
-    {
-      "basename": "January 10 - Skyler - State",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/January 10 - Skyler - State.md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "000 - 📝 journal/_daily/2024-01-09.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "Talk with Matt",
-      "path": "002 - 📍 my/_team/_hire/Talk with Matt.md"
-    },
-    {
-      "basename": "Talk with Tyler",
-      "path": "002 - 📍 my/_team/_hire/Talk with Tyler.md"
-    },
-    {
-      "basename": "January 03 - Skyler - How to move forward",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/January 03 - Skyler - How to move forward.md"
-    },
-    {
-      "basename": "Jeff Bezos + Lexi - Youtube 2 hour podcast",
-      "path": "900 - articles/Jeff Bezos + Lexi - Youtube 2 hour podcast.md"
-    },
-    {
-      "basename": "Reflect every 6 weeks - Heartbeats",
-      "path": "_sources/Reflect every 6 weeks - Heartbeats.md"
-    },
-    {
-      "basename": "Media re-use procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/Media re-use procedures implemented.md"
-    },
-    {
-      "basename": "005 What to use where",
-      "path": "_study/nlp/005 What to use where.md"
-    },
-    {
-      "basename": "index",
-      "path": "002 - 📍 my/_projects/_hipaa/index.md"
-    },
-    {
-      "basename": "Device and media movement recorded",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/Device and media movement recorded.md"
-    },
-    {
-      "basename": "Device and media disposal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/Device and media disposal policies implemented.md"
-    },
-    {
-      "basename": "Asset Management Policy",
-      "path": "002 - 📍 my/_projects/_hipaa/policies/Asset Management Policy.md"
-    },
-    {
-      "basename": "Data Management Policy",
-      "path": "002 - 📍 my/_projects/_hipaa/policies/Data Management Policy.md"
-    },
-    {
-      "basename": "2024-01-08",
-      "path": "000 - 📝 journal/_daily/2024-01-08.md"
-    },
-    {
-      "basename": "2024-01-08 - BoldBuild Briefing",
-      "path": "002 - 📍 my/_meetings/2024-01-08 - BoldBuild Briefing.md"
     }
   ],
   "omittedPaths": [],
