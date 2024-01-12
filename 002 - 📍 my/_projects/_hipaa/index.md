@@ -43,38 +43,38 @@ What are those 34 controls?
 39. [[IAC - 33 Unique user identified]] #iac
 40. [[IAC - 34 Workforce clearance procedures implemented]] #iac
 41. [[IAC - 35 Workforce security implemented]] #iac
-42. Additional breach information #iro
-43. Breach notice identification of individuals #iro
-44. Group health plan security incidents reported #iro
-45. Notification of breach #iro
-46. Security incidents identified and reported #iro
-47. Security incident procedures implemented #iro
-48. Timeliness of breach notification #iro
-49. Maintenance records maintained #mnt
-50. Audit controls implemented #mon
-51. Data integrity maintained #mon
-52. Mechanism to authenticate ePHI implemented #mon
-53. Access control and validation procedures implemented #pes
-54. Facility access controls implemented #pes
-55. Facility security plan implemented #pes
-56. Information system activity reviewed #rsk
-57. Risks analyzed #rsk
-58. Risks managed #rsk
-59. Log-ins monitored #sat
-60. Passwords managed #sat
-61. Malicious software protection implemented #sat
-62. Security awareness training implemented #sat
-63. Security reminders updated #sat
-64. Group health plan information controlled #sea
-65. Business associate agreements required #tpm
-66. Business associate agreements comply #tpm
-67. Business associate security incidents reported #tpm
-68. Business associate contracts with subcontractors established #tpm
-69. Business associate agreements with subcontractor obtained #tpm
-70. Business associate agreements with vendors established #tpm
-71. Group health plan information protected #tpm
-72. Subcontractor agreements enforced #tpm
-73. Business associate agreements documented #tpm
+42. [[IRO - 12 Additional breach information]] #iro
+43. [[IRO - 13 Breach notice identification of individuals]] #iro
+44. [[IRO - 14 Group health plan security incidents reported]] #iro
+45. [[IRO - 15 Notification of breach]] #iro
+46. [[IRO - 16 Security incidents identified and reported]] #iro
+47. [[IRO - 17 Security incident procedures implemented]] #iro
+48. [[IRO - 18 Timeliness of breach notification]] #iro
+49. [[MNT - 2 Maintenance records maintained]] #mnt
+50. [[MON - 8 Audit controls implemented]] #mon
+51. [[MON - 9 Data integrity maintained]] #mon
+52. [[MON - 10 Mechanism to authenticate ePHI implemented]] #mon
+53. [[PES - 16 Access control and validation procedures implemented]] #pes
+54. [[PES - 17 Facility access controls implemented]] #pes
+55. [[PES - 18 Facility security plan implemented]] #pes
+56. [[RSK - 8 Information system activity reviewed]] #rsk
+57. [[RSK - 9 Risks analyzed]] #rsk
+58. [[RSK - 10 Risks managed]] #rsk
+59. [[SAT - 4 Log-ins monitored]] #sat
+60. [[SAT - 5 Passwords managed]] #sat
+61. [[SAT - 6 Malicious software protection implemented]] #sat
+62. [[SAT - 7 Security awareness training implemented]] #sat
+63. [[SAT - 8 Security reminders updated]] #sat
+64. [[SEA - 5 Group health plan information controlled]] #sea
+65.[[TPM - 9 Business associate agreements required]] #tpm
+66. [[TMP - 10 Business associate agreements comply]] #tpm
+67. [[TMP - 11 Business associate security incidents reported]] #tpm
+68. [[TPM - 12 Business associate contracts with subcontractors established]] #tpm
+69. [[TPM - 13 Business associate agreements with subcontractor obtained]] #tpm
+70. [[TPM - 14 Business associate agreements with vendors established]] #tpm
+71. [[TPM - 15 Group health plan information protected]] #tpm
+72. [[Subcontractor agreements enforced]] #tpm
+73. [[TPM - 17 Business associate agreements documented]] #tpm
 
 
 

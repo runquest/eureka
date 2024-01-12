@@ -1,6 +1,150 @@
 {
   "recentFiles": [
     {
+      "basename": "Reviewing  Security & Compliance - GDrive",
+      "path": "002 - 📍 my/_projects/_hipaa/Reviewing  Security & Compliance - GDrive.md"
+    },
+    {
+      "basename": "Reviewing InfoSec Policies Project - GDrive",
+      "path": "002 - 📍 my/_projects/_hipaa/Reviewing InfoSec Policies Project - GDrive.md"
+    },
+    {
+      "basename": "TMP - 10 Business associate agreements comply",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TMP - 10 Business associate agreements comply.md"
+    },
+    {
+      "basename": "TPM - 15 Group health plan information protected",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 15 Group health plan information protected.md"
+    },
+    {
+      "basename": "HIPAA Tasks",
+      "path": "002 - 📍 my/_projects/_hipaa/HIPAA Tasks.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "TPM - 17 Business associate agreements documented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 17 Business associate agreements documented.md"
+    },
+    {
+      "basename": "index",
+      "path": "002 - 📍 my/_projects/_hipaa/index.md"
+    },
+    {
+      "basename": "TPM - 14 Business associate agreements with vendors established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 14 Business associate agreements with vendors established.md"
+    },
+    {
+      "basename": "TPM - 13 Business associate agreements with subcontractor obtained",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 13 Business associate agreements with subcontractor obtained.md"
+    },
+    {
+      "basename": "TPM - 12 Business associate contracts with subcontractors established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 12 Business associate contracts with subcontractors established.md"
+    },
+    {
+      "basename": "TMP - 11 Business associate security incidents reported",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TMP - 11 Business associate security incidents reported.md"
+    },
+    {
+      "basename": "TPM - 9 Business associate agreements required",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 9 Business associate agreements required.md"
+    },
+    {
+      "basename": "SEA - 5 Group health plan information controlled",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/016 - Secure Engineering & Architecture/SEA - 5 Group health plan information controlled.md"
+    },
+    {
+      "basename": "SAT - 4 Log-ins monitored",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/015 - Security Awareness & Training/SAT - 4 Log-ins monitored.md"
+    },
+    {
+      "basename": "SAT - 8 Security reminders updated",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/015 - Security Awareness & Training/SAT - 8 Security reminders updated.md"
+    },
+    {
+      "basename": "SAT - 7 Security awareness training implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/015 - Security Awareness & Training/SAT - 7 Security awareness training implemented.md"
+    },
+    {
+      "basename": "SAT - 6 Malicious software protection implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/015 - Security Awareness & Training/SAT - 6 Malicious software protection implemented.md"
+    },
+    {
+      "basename": "SAT - 5 Passwords managed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/015 - Security Awareness & Training/SAT - 5 Passwords managed.md"
+    },
+    {
+      "basename": "RSK - 8 Information system activity reviewed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 8 Information system activity reviewed.md"
+    },
+    {
+      "basename": "RSK - 10 Risks managed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 10 Risks managed.md"
+    },
+    {
+      "basename": "RSK - 9 Risks analyzed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 9 Risks analyzed.md"
+    },
+    {
+      "basename": "PES - 16 Access control and validation procedures implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/013 - Physical & Environmental Security/PES - 16 Access control and validation procedures implemented.md"
+    },
+    {
+      "basename": "PES - 18 Facility security plan implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/013 - Physical & Environmental Security/PES - 18 Facility security plan implemented.md"
+    },
+    {
+      "basename": "PES - 17 Facility access controls implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/013 - Physical & Environmental Security/PES - 17 Facility access controls implemented.md"
+    },
+    {
+      "basename": "MON - 8 Audit controls implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/012 - Continuous Monitoring/MON - 8 Audit controls implemented.md"
+    },
+    {
+      "basename": "MON - 10 Mechanism to authenticate ePHI implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/012 - Continuous Monitoring/MON - 10 Mechanism to authenticate ePHI implemented.md"
+    },
+    {
+      "basename": "IRO - 12 Additional breach information",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 12 Additional breach information.md"
+    },
+    {
+      "basename": "MON - 9 Data integrity maintained",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/012 - Continuous Monitoring/MON - 9 Data integrity maintained.md"
+    },
+    {
+      "basename": "MNT - 2 Maintenance records maintained",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/011 - Maintenance/MNT - 2 Maintenance records maintained.md"
+    },
+    {
+      "basename": "IRO - 18 Timeliness of breach notification",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 18 Timeliness of breach notification.md"
+    },
+    {
+      "basename": "IRO - 17 Security incident procedures implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 17 Security incident procedures implemented.md"
+    },
+    {
+      "basename": "IRO - 16 Security incidents identified and reported",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 16 Security incidents identified and reported.md"
+    },
+    {
+      "basename": "IRO - 15 Notification of breach",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 15 Notification of breach.md"
+    },
+    {
+      "basename": "IRO - 14 Group health plan security incidents reported",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 14 Group health plan security incidents reported.md"
+    },
+    {
+      "basename": "IRO - 13 Breach notice identification of individuals",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 13 Breach notice identification of individuals.md"
+    },
+    {
       "basename": "Jan 11 - Erick",
       "path": "002 - 📍 my/_team/_1on1/_erick/Jan 11 - Erick.md"
     },
@@ -29,32 +173,12 @@
       "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 4 - Vlad - 1.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
       "basename": "CPL - 10 Security controls evaluated",
       "path": "002 - 📍 my/_projects/_hipaa/controls/003 - Compliance/CPL - 10 Security controls evaluated.md"
     },
     {
-      "basename": "Tasks",
-      "path": "002 - 📍 my/_projects/_hipaa/Tasks.md"
-    },
-    {
-      "basename": "BCD - 16 Data backed up and stored",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/BCD - 16 Data backed up and stored.md"
-    },
-    {
-      "basename": "BCD - 14 Contingency plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/BCD - 14 Contingency plan established.md"
-    },
-    {
       "basename": "BCD - 12 Application and data criticality analyzed",
       "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 12 Application and data criticality analyzed.md"
-    },
-    {
-      "basename": "BCD - 13 Contingency operations established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/BCD - 13 Contingency operations established.md"
     },
     {
       "basename": "IAC - 30 Termination procedures established",
@@ -63,10 +187,6 @@
     {
       "basename": "GOV - 35 Policies and procedures activity documented",
       "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 35 Policies and procedures activity documented.md"
-    },
-    {
-      "basename": "index",
-      "path": "002 - 📍 my/_projects/_hipaa/index.md"
     },
     {
       "basename": "IAC - 24 Access authorized",
@@ -79,126 +199,6 @@
     {
       "basename": "IAC - 26 Access established, reviewed and modified",
       "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 26 Access established, reviewed and modified.md"
-    },
-    {
-      "basename": "IAC - 27 Workforce authorized and supervised",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 27 Workforce authorized and supervised.md"
-    },
-    {
-      "basename": "IAC - 28 Log-off automated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 28 Log-off automated.md"
-    },
-    {
-      "basename": "IAC - 29 Emergency access procedures established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 29 Emergency access procedures established.md"
-    },
-    {
-      "basename": "IAC - 31 Information access managed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 31 Information access managed.md"
-    },
-    {
-      "basename": "IAC - 32 Person or entities authenticated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 32 Person or entities authenticated.md"
-    },
-    {
-      "basename": "IAC - 33 Unique user identified",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 33 Unique user identified.md"
-    },
-    {
-      "basename": "IAC - 34 Workforce clearance procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 34 Workforce clearance procedures implemented.md"
-    },
-    {
-      "basename": "IAC - 35 Workforce security implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 35 Workforce security implemented.md"
-    },
-    {
-      "basename": "HRS - 17 Sanction policy applied",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/008 - Human Resources Security/HRS - 17 Sanction policy applied.md"
-    },
-    {
-      "basename": "GOV - 42 Workstation security policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 42 Workstation security policies implemented.md"
-    },
-    {
-      "basename": "GOV - 41 Security responsibility assigned",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 41 Security responsibility assigned.md"
-    },
-    {
-      "basename": "GOV - 40 Security violations managed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 40 Security violations managed.md"
-    },
-    {
-      "basename": "GOV - 39 Policies and procedures updated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 39 Policies and procedures updated.md"
-    },
-    {
-      "basename": "GOV - 38 Policies and procedures documented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 38 Policies and procedures documented.md"
-    },
-    {
-      "basename": "GOV - 37 Policies and procedures created",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 37 Policies and procedures created.md"
-    },
-    {
-      "basename": "GOV - 36 Policies and procedures available",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 36 Policies and procedures available.md"
-    },
-    {
-      "basename": "GOV - 34 HIPAA security officer",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 34 HIPAA security officer.md"
-    },
-    {
-      "basename": "END - 5 Workstation security implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/006 - Endpoint Security/END - 5 Workstation security implemented.md"
-    },
-    {
-      "basename": "DCH - 21 Data retention and time limit",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/005 - Data Classification & Handling/DCH - 21 Data retention and time limit.md"
-    },
-    {
-      "basename": "CRY - 15 Data transmission secured",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 15 Data transmission secured.md"
-    },
-    {
-      "basename": "CRY - 14 Data transmission integrity maintained",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 14 Data transmission integrity maintained.md"
-    },
-    {
-      "basename": "CRY - 12 Encryption and decryption controls implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 12 Encryption and decryption controls implemented.md"
-    },
-    {
-      "basename": "CRY - 13 Data transmission encrypted",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 13 Data transmission encrypted.md"
-    },
-    {
-      "basename": "BCD - 19 Emergency mode operation plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 19 Emergency mode operation plan established.md"
-    },
-    {
-      "basename": "BCD - 18 Disaster recovery plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 18 Disaster recovery plan established.md"
-    },
-    {
-      "basename": "AST - 12 Device and media disposal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
-    },
-    {
-      "basename": "BCD - 17 Data backup plan implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 17 Data backup plan implemented.md"
-    },
-    {
-      "basename": "BCD - 16 Data backed up and stored",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 16 Data backed up and stored.md"
-    },
-    {
-      "basename": "Objectives'24",
-      "path": "Objectives'24.md"
-    },
-    {
-      "basename": "BCD - 15 Contingency plan tested and revised",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 15 Contingency plan tested and revised.md"
     }
   ],
   "omittedPaths": [],
