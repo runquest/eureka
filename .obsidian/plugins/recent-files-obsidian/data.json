@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Talk with Marc",
+      "path": "002 - 📍 my/_team/_hire/Talk with Marc.md"
+    },
+    {
+      "basename": "Talk with Tyler",
+      "path": "002 - 📍 my/_team/_hire/Talk with Tyler.md"
+    },
+    {
+      "basename": "Jan 11 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 11 - Vlad.md"
+    },
+    {
+      "basename": "What I want everyone to know",
+      "path": "002 - 📍 my/What I want everyone to know.md"
+    },
+    {
+      "basename": "Daily Summary Graph",
+      "path": "000 - 📝 journal/_daily/Daily Summary Graph.md"
+    },
+    {
+      "basename": "2024-01-12",
+      "path": "000 - 📝 journal/_daily/2024-01-12.md"
+    },
+    {
+      "basename": "2024-01-11",
+      "path": "000 - 📝 journal/_daily/2024-01-11.md"
+    },
+    {
+      "basename": "2024-01-10",
+      "path": "000 - 📝 journal/_daily/2024-01-10.md"
+    },
+    {
+      "basename": "2024-01-07",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-07.md"
+    },
+    {
+      "basename": "2024-01-06",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-06.md"
+    },
+    {
+      "basename": "2024-01-02",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-02.md"
+    },
+    {
+      "basename": "2024-01-09",
+      "path": "000 - 📝 journal/_daily/2024-01-09.md"
+    },
+    {
+      "basename": "2024-01-08",
+      "path": "000 - 📝 journal/_daily/2024-01-08.md"
+    },
+    {
+      "basename": "2024-01-05",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-05.md"
+    },
+    {
+      "basename": "2024-01-04",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-04.md"
+    },
+    {
+      "basename": "2024-01-03",
+      "path": "000 - 📝 journal/_daily/W01/2024-01-03.md"
+    },
+    {
+      "basename": "HIPAA Tasks",
+      "path": "002 - 📍 my/_projects/_hipaa/HIPAA Tasks.md"
+    },
+    {
+      "basename": "Basics Workout I",
+      "path": "900 - workouts/Basics Workout I.md"
+    },
+    {
       "basename": "Reviewing  Security & Compliance - GDrive",
       "path": "002 - 📍 my/_projects/_hipaa/Reviewing  Security & Compliance - GDrive.md"
     },
@@ -15,10 +87,6 @@
     {
       "basename": "TPM - 15 Group health plan information protected",
       "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 15 Group health plan information protected.md"
-    },
-    {
-      "basename": "HIPAA Tasks",
-      "path": "002 - 📍 my/_projects/_hipaa/HIPAA Tasks.md"
     },
     {
       "basename": "Tasks",
@@ -131,74 +199,6 @@
     {
       "basename": "IRO - 16 Security incidents identified and reported",
       "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 16 Security incidents identified and reported.md"
-    },
-    {
-      "basename": "IRO - 15 Notification of breach",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 15 Notification of breach.md"
-    },
-    {
-      "basename": "IRO - 14 Group health plan security incidents reported",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 14 Group health plan security incidents reported.md"
-    },
-    {
-      "basename": "IRO - 13 Breach notice identification of individuals",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 13 Breach notice identification of individuals.md"
-    },
-    {
-      "basename": "Jan 11 - Erick",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 11 - Erick.md"
-    },
-    {
-      "basename": "Jan 4 - Erick -",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 4 - Erick -.md"
-    },
-    {
-      "basename": "Dec 21 - Erick - End of year priorities",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Dec 21 - Erick - End of year priorities.md"
-    },
-    {
-      "basename": "Jan 4 - Carin - What is next",
-      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 4 - Carin - What is next.md"
-    },
-    {
-      "basename": "Jan 11 - Carin - First weeks",
-      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 11 - Carin - First weeks.md"
-    },
-    {
-      "basename": "Jan 11 - Vlad",
-      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 11 - Vlad.md"
-    },
-    {
-      "basename": "Jan 4 - Vlad - 1",
-      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 4 - Vlad - 1.md"
-    },
-    {
-      "basename": "CPL - 10 Security controls evaluated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/003 - Compliance/CPL - 10 Security controls evaluated.md"
-    },
-    {
-      "basename": "BCD - 12 Application and data criticality analyzed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 12 Application and data criticality analyzed.md"
-    },
-    {
-      "basename": "IAC - 30 Termination procedures established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 30 Termination procedures established.md"
-    },
-    {
-      "basename": "GOV - 35 Policies and procedures activity documented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 35 Policies and procedures activity documented.md"
-    },
-    {
-      "basename": "IAC - 24 Access authorized",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 24 Access authorized.md"
-    },
-    {
-      "basename": "IAC - 25 Access controls applied",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 25 Access controls applied.md"
-    },
-    {
-      "basename": "IAC - 26 Access established, reviewed and modified",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 26 Access established, reviewed and modified.md"
     }
   ],
   "omittedPaths": [],
