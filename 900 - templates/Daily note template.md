@@ -1,6 +1,5 @@
 ---
 wake up: 
-movement: 
 gym: 
 sleep: 
 pain a.m.: 
@@ -19,11 +18,5 @@ Back Exercise:
 
 -----
 ### Tasks 
-
-#### Routine
-
-- [ ] [[Wake up movement]] #health #daily
-- [ ] Workout #health #daily 
-- [ ] Read #health #2024Q1-A1 #daily
 
 #### Today's tasks

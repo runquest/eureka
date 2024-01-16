@@ -24,7 +24,7 @@ how to publish documentation for everyone to see?
 - [x] Set up Ignacio with all the access
 - [x] Make SequalAce work
 - [x] Duo for Brandon
-- [ ] Read through Vanta
+- [x] Read through Vanta
 - [ ] Read through Policies
 ```dataview
 TASK 
