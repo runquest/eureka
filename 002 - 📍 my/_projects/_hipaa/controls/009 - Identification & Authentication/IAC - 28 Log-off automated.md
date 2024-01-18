@@ -3,4 +3,4 @@ The company has implemented electronic procedures that terminate an electronic s
 
 ### Tasks
 - [ ] Proof that it actually works on applications & on laptops #illuminati 
-- [ ] Ask Windy to turn on screenlock #illuminati 
+- [x] Ask Windy to turn on screenlock #illuminati

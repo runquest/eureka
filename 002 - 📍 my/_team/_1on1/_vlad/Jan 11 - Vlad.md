@@ -16,7 +16,7 @@ Topics:
 		* Do not have means to wipe the laptop
 	* Vanta installed ✅
 * [ ] Ask Fred: BAA with XOOR? #illuminati 
-- [ ] Where is Ana's laptop (?) #aiste #my
+- [x] Where is Ana's laptop (?) #aiste #my
 - [ ] Endpoint - laptops #illuminati 
 	- [ ] Sophos endpoints - separate ticket #illuminati 
 - [ ] Create separate
