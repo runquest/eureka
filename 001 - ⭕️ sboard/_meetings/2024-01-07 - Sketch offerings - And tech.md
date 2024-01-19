@@ -13,8 +13,8 @@
 
 - [ ] Set up email lindsay@sboard.ca - she needs to change password and integrate with her outlook
 - [ ] How much money I want to spent on this?
-- [ ] Update website color pallette #sboard #aiste 
-- [ ] Update website #sboard #aiste 
+- [x] Update website color pallette #sboard #aiste
+- [x] Update website #sboard #aiste
 - [ ] Source location where we can make it #sboard #aiste 
 - [ ] Maybe start with questionnaire to the network #sboard #aiste
 	- maybe online to kick off is a good idea

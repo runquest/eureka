@@ -16,8 +16,8 @@ how to publish documentation for everyone to see?
 ##### TO DO from MY
 
 - [ ] Mobile application changes 
-- [ ] Summarize proposal to Gene
-- [ ] Mobile application 
+- [x] Summarize proposal to Gene
+- [x] Mobile application 
 - [x] Archive JIRA boards
 - [ ] Prepare for HIPAA project 
 - [ ] Set up question of the day
