@@ -35,4 +35,4 @@ WHERE !completed
 
  * [ ] Document: Vendor uploads
 * [ ] Document: Report release
-* [ ] Give Access to Carin to Snowflake #aiste #my 
+* [x] Give Access to Carin to Snowflake #aiste #my
