@@ -5,4 +5,4 @@ The company has implemented a mechanism to encrypt electronic protected health i
 [[Data Management Policy]]
 
 ### Tasks
-- [ ] How can we prove if *data transmission is encrypted* #illuminati 
+- [x] How can we prove if *data transmission is encrypted* #illuminati

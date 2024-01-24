@@ -1,16 +1,112 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-22",
+      "path": "000 - 📝 journal/_daily/2024-01-22.md"
+    },
+    {
       "basename": "2024-01-19",
       "path": "000 - 📝 journal/_daily/2024-01-19.md"
+    },
+    {
+      "basename": "Risk Management Policy",
+      "path": "002 - 📍 my/_projects/_hipaa/policies/Risk Management Policy.md"
+    },
+    {
+      "basename": "Asset Management Policy",
+      "path": "002 - 📍 my/_projects/_hipaa/policies/Asset Management Policy.md"
+    },
+    {
+      "basename": "IAC - 29 Emergency access procedures established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 29 Emergency access procedures established.md"
+    },
+    {
+      "basename": "HIPAA Tasks",
+      "path": "002 - 📍 my/_projects/_hipaa/HIPAA Tasks.md"
+    },
+    {
+      "basename": "IRO - 17 Security incident procedures implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 17 Security incident procedures implemented.md"
+    },
+    {
+      "basename": "HIPAA Tasks - Q&A",
+      "path": "002 - 📍 my/_projects/_hipaa/HIPAA Tasks - Q&A.md"
+    },
+    {
+      "basename": "IAC - 33 Unique user identified",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 33 Unique user identified.md"
+    },
+    {
+      "basename": "GOV - 35 Policies and procedures activity documented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/007 - Security & Privacy Governance/GOV - 35 Policies and procedures activity documented.md"
+    },
+    {
+      "basename": "CRY - 13 Data transmission encrypted",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 13 Data transmission encrypted.md"
+    },
+    {
+      "basename": "BCD - 18 Disaster recovery plan established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 18 Disaster recovery plan established.md"
+    },
+    {
+      "basename": "CRY - 12 Encryption and decryption controls implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/004 - Cryptographic Protection/CRY - 12 Encryption and decryption controls implemented.md"
+    },
+    {
+      "basename": "BCD - 14 Contingency plan established",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 14 Contingency plan established.md"
+    },
+    {
+      "basename": "BCD - 16 Data backed up and stored",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 16 Data backed up and stored.md"
+    },
+    {
+      "basename": "BCD - 12 Application and data criticality analyzed",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 12 Application and data criticality analyzed.md"
+    },
+    {
+      "basename": "AST - 14 Media re-use procedures implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 14 Media re-use procedures implemented.md"
+    },
+    {
+      "basename": "AST - 13 Device and media movement recorded",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 13 Device and media movement recorded.md"
+    },
+    {
+      "basename": "AST - 15 Media removal policies implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 15 Media removal policies implemented.md"
+    },
+    {
+      "basename": "AST - 12 Device and media disposal policies implemented",
+      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
     },
     {
       "basename": "Unrelated",
       "path": "Unrelated.md"
     },
     {
-      "basename": "Daily note template",
-      "path": "900 - templates/Daily note template.md"
+      "basename": "Jan 19 - Erick",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 19 - Erick.md"
+    },
+    {
+      "basename": "Jan 4 - Erick -",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 4 - Erick -.md"
+    },
+    {
+      "basename": "Jan 11 - Erick",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 11 - Erick.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "000 - VTA",
+      "path": "003 - 🎾 vta/000 - VTA.md"
     },
     {
       "basename": "2024-01-18",
@@ -21,80 +117,72 @@
       "path": "000 - 📝 journal/_weekly/2024-W02.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Tasks.md"
+      "basename": "Jan 18 - Carin - First weeks 2",
+      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 18 - Carin - First weeks 2.md"
+    },
+    {
+      "basename": "Jan 11 - Carin - First weeks",
+      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 11 - Carin - First weeks.md"
+    },
+    {
+      "basename": "Obsidian - team documentation management",
+      "path": "Obsidian - team documentation management.md"
     },
     {
       "basename": "2024-01-17",
       "path": "000 - 📝 journal/_daily/2024-01-17.md"
     },
     {
-      "basename": "000 - VTA",
-      "path": "003 - 🎾 vta/000 - VTA.md"
+      "basename": "Jan 17 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 17 - Vlad.md"
     },
     {
-      "basename": "W3 Meals",
-      "path": "900 - meals/W3 Meals.md"
+      "basename": "Jan 11 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 11 - Vlad.md"
     },
     {
-      "basename": "000 - Poker",
-      "path": "800 - ♦️ poker/000 - Poker.md"
+      "basename": "Jan 17 - Ben - Health Report Hold feature",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 17 - Ben - Health Report Hold feature.md"
+    },
+    {
+      "basename": "Jan 10 - Ben -",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 10 - Ben -.md"
+    },
+    {
+      "basename": "Jan 17 - Ravneet 1",
+      "path": "002 - 📍 my/_team/_1on1/_ravneet/Jan 17 - Ravneet 1.md"
+    },
+    {
+      "basename": "Jan 10 - Ravneet",
+      "path": "002 - 📍 my/_team/_1on1/_ravneet/Jan 10 - Ravneet.md"
+    },
+    {
+      "basename": "January 11 - Skyler - State 2",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/January 11 - Skyler - State 2.md"
+    },
+    {
+      "basename": "January 10 - Skyler - State",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/January 10 - Skyler - State.md"
+    },
+    {
+      "basename": "Objectives'24",
+      "path": "Objectives'24.md"
+    },
+    {
+      "basename": "2024-01-16",
+      "path": "000 - 📝 journal/_daily/2024-01-16.md"
     },
     {
       "basename": "2024-W01",
       "path": "000 - 📝 journal/_weekly/2024-W01.md"
     },
     {
-      "basename": "Workout Plan",
-      "path": "900 - workouts/Workout Plan.md"
+      "basename": "Reviewing  Security & Compliance - GDrive",
+      "path": "002 - 📍 my/_projects/_hipaa/Reviewing  Security & Compliance - GDrive.md"
     },
     {
-      "basename": "Wake up movement",
-      "path": "900 - workouts/Wake up movement.md"
-    },
-    {
-      "basename": "Basics Workout I",
-      "path": "900 - workouts/Basics Workout I.md"
-    },
-    {
-      "basename": "Screenshot 2024-01-13 at 1.56.12 PM",
-      "path": "900 - images/poker/Screenshot 2024-01-13 at 1.56.12 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-01-13 at 1.50.07 PM",
-      "path": "900 - images/poker/Screenshot 2024-01-13 at 1.50.07 PM.png"
-    },
-    {
-      "basename": "Screenshot 2024-01-13 at 1.49.32 PM",
-      "path": "900 - images/poker/Screenshot 2024-01-13 at 1.49.32 PM.png"
-    },
-    {
-      "basename": "Screenshot 2023-12-21 at 2.45.50 PM",
-      "path": "900 - images/MY/Screenshot 2023-12-21 at 2.45.50 PM.png"
-    },
-    {
-      "basename": "Screenshot 2023-12-21 at 2.45.29 PM",
-      "path": "900 - images/MY/Screenshot 2023-12-21 at 2.45.29 PM.png"
-    },
-    {
-      "basename": "Screenshot 2023-12-21 at 2.44.55 PM",
-      "path": "900 - images/MY/Screenshot 2023-12-21 at 2.44.55 PM.png"
-    },
-    {
-      "basename": "Screenshot 2023-12-21 at 1.27.44 PM",
-      "path": "900 - images/MY/Screenshot 2023-12-21 at 1.27.44 PM.png"
-    },
-    {
-      "basename": "000 - SBoard",
-      "path": "001 - ⭕️ sboard/000 - SBoard.md"
-    },
-    {
-      "basename": "000 - MY",
-      "path": "002 - 📍 my/000 - MY.md"
-    },
-    {
-      "basename": "000 - 52 frames",
-      "path": "004 - 📸 52 frames/000 - 52 frames.md"
+      "basename": "Reviewing InfoSec Policies Project - GDrive",
+      "path": "002 - 📍 my/_projects/_hipaa/Reviewing InfoSec Policies Project - GDrive.md"
     },
     {
       "basename": "Week 2 - Try different tecchnique",
@@ -105,16 +193,12 @@
       "path": "004 - 📸 52 frames/Week 1 - Self Portrait.md"
     },
     {
-      "basename": "2024-01-03",
-      "path": "000 - 📝 journal/_daily/W01/2024-01-03.md"
+      "basename": "2024-01-15",
+      "path": "000 - 📝 journal/_daily/2024-01-15.md"
     },
     {
-      "basename": "2023-12-24",
-      "path": "000 - 📝 journal/_daily/W00/2023-12-24.md"
-    },
-    {
-      "basename": "2023-12-30",
-      "path": "000 - 📝 journal/_daily/W00/2023-12-30.md"
+      "basename": "2024-01-08",
+      "path": "000 - 📝 journal/_daily/W02/2024-01-08.md"
     }
   ],
   "omittedPaths": [],

@@ -8,4 +8,4 @@ The company has implemented a mechanism to encrypt and decrypt electronic protec
 * Employee computer hard disk encryption (Sophos? Vanta?)
 
 ### Tasks
-- [ ] Ask Fred what adding a Risk scenario could look like here? #illuminati 
+- [x] Ask Fred what adding a Risk scenario could look like here? #illuminati 

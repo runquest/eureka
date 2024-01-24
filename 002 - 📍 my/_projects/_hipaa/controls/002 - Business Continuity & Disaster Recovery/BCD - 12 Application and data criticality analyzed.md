@@ -9,4 +9,4 @@ The company assesses the relative criticality of specific applications and data 
 
 ### Tasks
 
-- [ ] WRITE HOW-TO: Add document outlining what is the process of risk assessments #illuminati 
+- [x] WRITE HOW-TO: Add document outlining what is the process of risk assessments #illuminati 

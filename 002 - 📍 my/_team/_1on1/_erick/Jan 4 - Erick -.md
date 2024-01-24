@@ -16,7 +16,7 @@ Topics:
 * Sprint planning on Friday
 ### What is on Aiste's mind?
 
-- [ ] Take notes on Obsidian for DevSync meeting for January
+- [x] Take notes on Obsidian for DevSync meeting for January
 * Epic -> Feature scope + Implementation proposal -> Tickets as milestones -> Deliverables
 * Checked on JIRA ticket
 * Technical debt - 8 hours / sprint or 4 hours / week for technical debt

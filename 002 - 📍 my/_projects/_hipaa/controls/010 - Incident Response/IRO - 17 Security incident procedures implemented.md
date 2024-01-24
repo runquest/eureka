@@ -3,5 +3,5 @@ The company has implemented policies and procedures to address security incident
 [[Incident Response Plan]]
 [[HIPAA Breach Addendum]]
 ### Tasks
-- [ ] What is P1, P2, P3 security issues? #illuminati 
-- [ ] Upload under guidelines that everyone know where to go #illuminati 
+- [x] What is P1, P2, P3 security issues? #illuminati
+- [x] Upload under guidelines that everyone know where to go #illuminati 

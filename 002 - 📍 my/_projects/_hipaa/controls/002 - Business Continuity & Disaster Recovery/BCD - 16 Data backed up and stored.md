@@ -6,8 +6,7 @@ The company creates a retrievable, exact copy of electronic protected health inf
 
 ### Tests
 
-* 
 * Daily RDS database backups enabled
 
 ### Tests
-- [ ] can we demonstrate it (?) #illuminati 
+- [x] can we demonstrate it (?) #illuminati

@@ -6,4 +6,4 @@ The company has implemented policies and procedures that, based upon the entityâ
 
 
 ### Tasks
-- [ ] Review accounts after Ana left #illuminati 
+- [x] Review accounts after Ana left #illuminati

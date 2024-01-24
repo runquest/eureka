@@ -7,4 +7,4 @@ The company identifies and responds to suspected or known security incidents, mi
 
 
 ### Tasks
-- [ ] Security incident report folder #illuminati 
+- [x] Security incident report folder #illuminati

@@ -9,4 +9,4 @@ The company has established (and implements as needed) procedures to restore any
 * Data restore test
 
 ### Tasks
-- [ ] Well documented - wonder if we can find better naming for filtes/ticket/test #illuminati 
+- [x] Well documented - wonder if we can find better naming for filter/ticket/test #illuminati 

@@ -3,6 +3,6 @@ The company has implement procedures for terminating access to electronic protec
 
 
 ### Tasks
-- [ ] Read through *Employee exit process* #illuminati 
+- [x] Read through *Employee exit process* #illuminati
 - [ ] Read through *Employee termination security policy* #illuminati 
-- [ ] Off-board former employees #illuminati 
+- [x] Off-board former employees #illuminati

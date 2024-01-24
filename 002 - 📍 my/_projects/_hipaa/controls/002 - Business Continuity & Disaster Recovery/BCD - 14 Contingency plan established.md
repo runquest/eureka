@@ -9,5 +9,5 @@ The company has established (and implements as needed) policies and procedures f
 
 ### Tasks
 
-- [ ] Run tabletop disaster recovery exercise #illuminati 
-- [ ] Schedule reviews #illuminati 
+- [x] Run tabletop disaster recovery exercise #illuminati
+- [x] Schedule reviews #illuminati

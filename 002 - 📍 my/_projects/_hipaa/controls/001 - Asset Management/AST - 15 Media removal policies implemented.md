@@ -5,4 +5,4 @@ The company has implemented policies and procedures that govern the receipt and 
 
 ### Tasks
 
-- [ ] Link document in document where instructions are written #illuminati 
+- [x] Link Asset Management Policy into a procedure of how to dispose of devices #illuminati 
