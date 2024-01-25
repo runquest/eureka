@@ -19,7 +19,6 @@ Topics:
 - [x] Where is Ana's laptop (?) #aiste #my
 - [ ] Endpoint - laptops #illuminati 
 	- [ ] Sophos endpoints - separate ticket #illuminati 
-- [ ] Create separate
 
 * Primary focus: Infrastructure as Code
 	*  [ ] Finish ephemeral environment to be almost automatic to launch - show & tell
