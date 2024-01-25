@@ -9,7 +9,7 @@
 | ----- |----- | ----- | ----- |
 | ~~A.1. *Consume* Back Mechanics book~~ | B.1. Launch landing page | C.1. Submit 4 photos for 52 Fames | D.1. Submit 5 job applications |
 | A.2. 31 days of program complete | B.2. Launch Newsletter |  | D.2. Apply to 2 conferences |
-| A.3. Play 1x on the indoor court | B.3. Gather 20+ subscribers |  | D.3. Launch Metric system at MY |
+| ~~A.3. Play 1x on the indoor court~~ | B.3. Gather 20+ subscribers |  | D.3. Launch Metric system at MY |
 |  | B.4. Host an event |  | D.4. Finish the course on finance |
 
 

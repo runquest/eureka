@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "This week's reads",
+      "path": "This week's reads.md"
+    },
+    {
+      "basename": "2024-01-24",
+      "path": "000 - 📝 journal/_daily/2024-01-24.md"
+    },
+    {
+      "basename": "Objectives'24",
+      "path": "Objectives'24.md"
+    },
+    {
+      "basename": "Obsidian - team documentation management",
+      "path": "002 - 📍 my/Obsidian - team documentation management.md"
+    },
+    {
+      "basename": "What I want everyone to know",
+      "path": "002 - 📍 my/What I want everyone to know.md"
+    },
+    {
+      "basename": "clean up data on staging & production",
+      "path": "002 - 📍 my/clean up data on staging & production.md"
+    },
+    {
+      "basename": "January 24 - Skyler - State",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/January 24 - Skyler - State.md"
+    },
+    {
+      "basename": "January 17 - Skyler - State",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/January 17 - Skyler - State.md"
+    },
+    {
       "basename": "2024-01-22",
       "path": "000 - 📝 journal/_daily/2024-01-22.md"
     },
     {
+      "basename": "2024-W02",
+      "path": "000 - 📝 journal/_weekly/2024-W02.md"
+    },
+    {
+      "basename": "2024-W01",
+      "path": "000 - 📝 journal/_weekly/2024-W01.md"
+    },
+    {
+      "basename": "2023-12-24",
+      "path": "000 - 📝 journal/_daily/W00/2023-12-24.md"
+    },
+    {
+      "basename": "2024-01-23",
+      "path": "000 - 📝 journal/_daily/2024-01-23.md"
+    },
+    {
+      "basename": "2024-01-15",
+      "path": "000 - 📝 journal/_daily/W03/2024-01-15.md"
+    },
+    {
       "basename": "2024-01-19",
-      "path": "000 - 📝 journal/_daily/2024-01-19.md"
+      "path": "000 - 📝 journal/_daily/W03/2024-01-19.md"
     },
     {
       "basename": "Risk Management Policy",
@@ -81,10 +133,6 @@
       "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
     },
     {
-      "basename": "Unrelated",
-      "path": "Unrelated.md"
-    },
-    {
       "basename": "Jan 19 - Erick",
       "path": "002 - 📍 my/_team/_1on1/_erick/Jan 19 - Erick.md"
     },
@@ -101,20 +149,12 @@
       "path": "Tasks.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
       "basename": "000 - VTA",
       "path": "003 - 🎾 vta/000 - VTA.md"
     },
     {
       "basename": "2024-01-18",
-      "path": "000 - 📝 journal/_daily/2024-01-18.md"
-    },
-    {
-      "basename": "2024-W02",
-      "path": "000 - 📝 journal/_weekly/2024-W02.md"
+      "path": "000 - 📝 journal/_daily/W03/2024-01-18.md"
     },
     {
       "basename": "Jan 18 - Carin - First weeks 2",
@@ -125,12 +165,8 @@
       "path": "002 - 📍 my/_team/_1on1/_carin/Jan 11 - Carin - First weeks.md"
     },
     {
-      "basename": "Obsidian - team documentation management",
-      "path": "Obsidian - team documentation management.md"
-    },
-    {
       "basename": "2024-01-17",
-      "path": "000 - 📝 journal/_daily/2024-01-17.md"
+      "path": "000 - 📝 journal/_daily/W03/2024-01-17.md"
     },
     {
       "basename": "Jan 17 - Vlad",
@@ -157,48 +193,8 @@
       "path": "002 - 📍 my/_team/_1on1/_ravneet/Jan 10 - Ravneet.md"
     },
     {
-      "basename": "January 11 - Skyler - State 2",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/January 11 - Skyler - State 2.md"
-    },
-    {
       "basename": "January 10 - Skyler - State",
       "path": "002 - 📍 my/_team/_1on1/_skyler/January 10 - Skyler - State.md"
-    },
-    {
-      "basename": "Objectives'24",
-      "path": "Objectives'24.md"
-    },
-    {
-      "basename": "2024-01-16",
-      "path": "000 - 📝 journal/_daily/2024-01-16.md"
-    },
-    {
-      "basename": "2024-W01",
-      "path": "000 - 📝 journal/_weekly/2024-W01.md"
-    },
-    {
-      "basename": "Reviewing  Security & Compliance - GDrive",
-      "path": "002 - 📍 my/_projects/_hipaa/Reviewing  Security & Compliance - GDrive.md"
-    },
-    {
-      "basename": "Reviewing InfoSec Policies Project - GDrive",
-      "path": "002 - 📍 my/_projects/_hipaa/Reviewing InfoSec Policies Project - GDrive.md"
-    },
-    {
-      "basename": "Week 2 - Try different tecchnique",
-      "path": "004 - 📸 52 frames/Week 2 - Try different tecchnique.md"
-    },
-    {
-      "basename": "Week 1 - Self Portrait",
-      "path": "004 - 📸 52 frames/Week 1 - Self Portrait.md"
-    },
-    {
-      "basename": "2024-01-15",
-      "path": "000 - 📝 journal/_daily/2024-01-15.md"
-    },
-    {
-      "basename": "2024-01-08",
-      "path": "000 - 📝 journal/_daily/W02/2024-01-08.md"
     }
   ],
   "omittedPaths": [],

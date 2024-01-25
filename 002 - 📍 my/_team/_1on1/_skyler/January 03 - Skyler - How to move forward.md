@@ -32,7 +32,7 @@ Let's have a conversation with Product team to align to start the year on the ri
 [Skyler filter](https://molecularyou.atlassian.net/issues/?filter=10020)
 
 * Do  we have tickets for Ravneet's work?
-	- [ ] Create Epic & Add tickets for Ravneet
+	- [x] Create Epic & Add tickets for Ravneet
 * Feedback on Ravneet? 
 	* Poor communication
 		* Takes long time to update
