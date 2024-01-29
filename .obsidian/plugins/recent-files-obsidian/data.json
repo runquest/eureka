@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-28",
+      "path": "000 - 📝 journal/_daily/2024-01-28.md"
+    },
+    {
+      "basename": "2024-01-27",
+      "path": "000 - 📝 journal/_daily/2024-01-27.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "000 - 📝 journal/_daily/2024-01-26.md"
+    },
+    {
+      "basename": "2024-01-25",
+      "path": "000 - 📝 journal/_daily/2024-01-25.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
       "basename": "Jan 3 - Healthy Feedback",
       "path": "002 - 📍 my/_team/_1on1/_ben/Jan 3 - Healthy Feedback.md"
+    },
+    {
+      "basename": "2024 January - Heartbeat",
+      "path": "002 - 📍 my/_areas/_illuminati/2024 January - Heartbeat.md"
     },
     {
       "basename": "Jan 25 - Ben - DB Scheme dump",
@@ -29,10 +53,6 @@
       "path": "002 - 📍 my/_team/_1on1/_carin/Jan 18 - Carin - First weeks 2.md"
     },
     {
-      "basename": "2024-01-25",
-      "path": "000 - 📝 journal/_daily/2024-01-25.md"
-    },
-    {
       "basename": "2024-01-24",
       "path": "000 - 📝 journal/_daily/2024-01-24.md"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "Software Security - MOC",
       "path": "_study/software security/Software Security - MOC.md"
-    },
-    {
-      "basename": "2024 January - Heartbeat",
-      "path": "002 - 📍 my/_areas/_illuminati/2024 January - Heartbeat.md"
     },
     {
       "basename": "2023 December - Heartbeat",
@@ -183,22 +199,6 @@
     {
       "basename": "AST - 12 Device and media disposal policies implemented",
       "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
-    },
-    {
-      "basename": "Jan 19 - Erick",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 19 - Erick.md"
-    },
-    {
-      "basename": "Jan 4 - Erick -",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 4 - Erick -.md"
-    },
-    {
-      "basename": "Jan 11 - Erick",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Jan 11 - Erick.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     }
   ],
   "omittedPaths": [],
