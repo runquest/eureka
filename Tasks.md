@@ -15,16 +15,7 @@ how to publish documentation for everyone to see?
 ----
 ##### TO DO from MY
 
-- [ ] Mobile application changes 
-- [x] Summarize proposal to Gene
-- [x] Mobile application 
-- [x] Archive JIRA boards
-- [ ] Prepare for HIPAA project 
 - [ ] Set up question of the day
-- [x] Set up Ignacio with all the access
-- [x] Make SequalAce work
-- [x] Duo for Brandon
-- [x] Read through Vanta
 - [ ] Read through Policies
 ```dataview
 TASK 

@@ -14,7 +14,7 @@ Tomorrow off
 - [ ] Develop a prototype
 
 #### MYhi Seed data
-- [ ] test seed data #my #aiste
+- [x] test seed data #my #aiste
 
 #### MYnd Seed data
 - [ ] #ben test seed data

@@ -14,7 +14,7 @@ Topics:
 	* We needed to rollback 5 days and Penguin images is not returned - investigating, but not a quick fix that was visible - no point in fixing pipeline for that at the moment
 * Epheral environment
 	* Seeds broke: working with Erick (2 fixes)
-	- [ ] We should recreate environments once a month? #my #aiste
+	- We should recreate environments once a month? #my #aiste
 	- Local redirects were broken - fixed with kind of a patch
 	- + added pretty domains - for future we will be using ticket numbers for it
 * Primary focus: Infrastructure as Code

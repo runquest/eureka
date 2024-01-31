@@ -3,7 +3,7 @@
 ----
 ##### Tasks
 - [ ] Summarize *end of year* event #my #aiste
-- [ ] Do we have dummy accounts in production? #my #aiste 
+- [x] Do we have dummy accounts in production? #my #aiste
 - [x] Help Joe with People's OKRs
 ##### Thoughts
 - People's OKRs are uninspiring, vague, and not really thought through

@@ -1,24 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-28",
-      "path": "000 - 📝 journal/_daily/2024-01-28.md"
-    },
-    {
-      "basename": "2024-01-27",
-      "path": "000 - 📝 journal/_daily/2024-01-27.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "000 - 📝 journal/_daily/2024-01-26.md"
-    },
-    {
-      "basename": "2024-01-25",
-      "path": "000 - 📝 journal/_daily/2024-01-25.md"
+      "basename": "2024-01-30",
+      "path": "000 - 📝 journal/2024-01-30.md"
     },
     {
       "basename": "Tasks",
       "path": "Tasks.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "000 - 📝 journal/2024-01-29.md"
+    },
+    {
+      "basename": "2024-W04",
+      "path": "000 - 📝 journal/_weekly/2024-W04.md"
+    },
+    {
+      "basename": "Jan 25 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 25 - Vlad.md"
+    },
+    {
+      "basename": "Jan 10 - Ben -",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 10 - Ben -.md"
+    },
+    {
+      "basename": "Jan 17 - Ben - Health Report Hold feature",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 17 - Ben - Health Report Hold feature.md"
+    },
+    {
+      "basename": "Jan 25 - Ben - DB Scheme dump",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 25 - Ben - DB Scheme dump.md"
+    },
+    {
+      "basename": "2024-01-13",
+      "path": "000 - 📝 journal/_daily/W02/2024-01-13.md"
+    },
+    {
+      "basename": "2024-01-24",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-24.md"
+    },
+    {
+      "basename": "2024-01-25",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-25.md"
+    },
+    {
+      "basename": "2024-01-28",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-28.md"
+    },
+    {
+      "basename": "2024-01-27",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-27.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-26.md"
+    },
+    {
+      "basename": "This week's reads",
+      "path": "This week's reads.md"
+    },
+    {
+      "basename": "2024-01-22",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-22.md"
+    },
+    {
+      "basename": "2024-01-15",
+      "path": "000 - 📝 journal/_daily/W03/2024-01-15.md"
+    },
+    {
+      "basename": "000 - SBoard",
+      "path": "001 - ⭕️ sboard/000 - SBoard.md"
     },
     {
       "basename": "Jan 3 - Healthy Feedback",
@@ -29,20 +81,8 @@
       "path": "002 - 📍 my/_areas/_illuminati/2024 January - Heartbeat.md"
     },
     {
-      "basename": "Jan 25 - Ben - DB Scheme dump",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 25 - Ben - DB Scheme dump.md"
-    },
-    {
-      "basename": "Jan 17 - Ben - Health Report Hold feature",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Jan 17 - Ben - Health Report Hold feature.md"
-    },
-    {
       "basename": "Jan 25 - Erick - State",
       "path": "002 - 📍 my/_team/_1on1/_erick/Jan 25 - Erick - State.md"
-    },
-    {
-      "basename": "Jan 25 - Vlad",
-      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 25 - Vlad.md"
     },
     {
       "basename": "Jan 25 - Carin - State",
@@ -53,16 +93,8 @@
       "path": "002 - 📍 my/_team/_1on1/_carin/Jan 18 - Carin - First weeks 2.md"
     },
     {
-      "basename": "2024-01-24",
-      "path": "000 - 📝 journal/_daily/2024-01-24.md"
-    },
-    {
       "basename": "2024-01-23",
-      "path": "000 - 📝 journal/_daily/2024-01-23.md"
-    },
-    {
-      "basename": "2024-01-22",
-      "path": "000 - 📝 journal/_daily/2024-01-22.md"
+      "path": "000 - 📝 journal/_daily/W04/2024-01-23.md"
     },
     {
       "basename": "Software Security - MOC",
@@ -79,10 +111,6 @@
     {
       "basename": "Jan 17 - Vlad",
       "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 17 - Vlad.md"
-    },
-    {
-      "basename": "This week's reads",
-      "path": "This week's reads.md"
     },
     {
       "basename": "Objectives'24",
@@ -109,20 +137,8 @@
       "path": "002 - 📍 my/_team/_1on1/_skyler/January 17 - Skyler - State.md"
     },
     {
-      "basename": "2024-W02",
-      "path": "000 - 📝 journal/_weekly/2024-W02.md"
-    },
-    {
-      "basename": "2024-W01",
-      "path": "000 - 📝 journal/_weekly/2024-W01.md"
-    },
-    {
       "basename": "2023-12-24",
       "path": "000 - 📝 journal/_daily/W00/2023-12-24.md"
-    },
-    {
-      "basename": "2024-01-15",
-      "path": "000 - 📝 journal/_daily/W03/2024-01-15.md"
     },
     {
       "basename": "2024-01-19",
@@ -179,26 +195,6 @@
     {
       "basename": "BCD - 16 Data backed up and stored",
       "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 16 Data backed up and stored.md"
-    },
-    {
-      "basename": "BCD - 12 Application and data criticality analyzed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 12 Application and data criticality analyzed.md"
-    },
-    {
-      "basename": "AST - 14 Media re-use procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 14 Media re-use procedures implemented.md"
-    },
-    {
-      "basename": "AST - 13 Device and media movement recorded",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 13 Device and media movement recorded.md"
-    },
-    {
-      "basename": "AST - 15 Media removal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 15 Media removal policies implemented.md"
-    },
-    {
-      "basename": "AST - 12 Device and media disposal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
     }
   ],
   "omittedPaths": [],
