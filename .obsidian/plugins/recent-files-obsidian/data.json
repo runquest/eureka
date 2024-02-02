@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-02",
+      "path": "000 - 📝 journal/2024-02-02.md"
+    },
+    {
+      "basename": "2024-02-01",
+      "path": "000 - 📝 journal/2024-02-01.md"
+    },
+    {
+      "basename": "This week's reads",
+      "path": "This week's reads.md"
+    },
+    {
+      "basename": "2024-01-30",
+      "path": "000 - 📝 journal/2024-01-30.md"
+    },
+    {
+      "basename": "2024-01-31",
+      "path": "000 - 📝 journal/2024-01-31.md"
+    },
+    {
+      "basename": "privacy_security_thoughts",
+      "path": "privacy_security_thoughts.md"
+    },
+    {
+      "basename": "Objectives'24",
+      "path": "Objectives'24.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "000 - MY",
+      "path": "002 - 📍 my/000 - MY.md"
+    },
+    {
+      "basename": "Shannon",
+      "path": "Shannon.md"
+    },
+    {
       "basename": "RSK - 10 Risks managed",
       "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 10 Risks managed.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "IAC - 26 Access established, reviewed and modified",
       "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 26 Access established, reviewed and modified.md"
-    },
-    {
-      "basename": "IAC - 25 Access controls applied",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 25 Access controls applied.md"
-    },
-    {
-      "basename": "IAC - 24 Access authorized",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 24 Access authorized.md"
-    },
-    {
-      "basename": "DCH - 21 Data retention and time limit",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/005 - Data Classification & Handling/DCH - 21 Data retention and time limit.md"
-    },
-    {
-      "basename": "AST - 15 Media removal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 15 Media removal policies implemented.md"
-    },
-    {
-      "basename": "AST - 14 Media re-use procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 14 Media re-use procedures implemented.md"
-    },
-    {
-      "basename": "AST - 13 Device and media movement recorded",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 13 Device and media movement recorded.md"
-    },
-    {
-      "basename": "AST - 12 Device and media disposal policies implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/001 - Asset Management/AST - 12 Device and media disposal policies implemented.md"
-    },
-    {
-      "basename": "SEA - 5 Group health plan information controlled",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/016 - Secure Engineering & Architecture/SEA - 5 Group health plan information controlled.md"
-    },
-    {
-      "basename": "MON - 10 Mechanism to authenticate ePHI implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/012 - Continuous Monitoring/MON - 10 Mechanism to authenticate ePHI implemented.md"
-    },
-    {
-      "basename": "MON - 9 Data integrity maintained",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/012 - Continuous Monitoring/MON - 9 Data integrity maintained.md"
     }
   ],
   "omittedPaths": [],
