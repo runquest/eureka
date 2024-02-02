@@ -1,3 +1,6 @@
+##### Questions to explore
+- [ ] What is *feeling myself*?
+
 ##### TO DO from journal
 ```dataview
 TASK 
