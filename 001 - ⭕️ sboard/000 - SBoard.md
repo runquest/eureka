@@ -7,8 +7,8 @@ landing page -> email -> read
 ```
 #### To do:
 - [x] [[SBoard - Landing Page]] #web #marketing #sboard 
-- [ ] Email Lindsay
-- [ ] Promote on LinkedIn #web #markerting
+- [x] Email Lindsay
+- [x] Promote on LinkedIn #web #markerting
 
 #### Thoughts
 

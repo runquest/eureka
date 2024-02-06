@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Testing",
+      "path": "Testing.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "2024-02-05 - BoldBuild Briefing",
+      "path": "002 - 📍 my/_meetings/2024-02-05 - BoldBuild Briefing.md"
+    },
+    {
+      "basename": "2024-01-08 - BoldBuild Briefing",
+      "path": "002 - 📍 my/_meetings/2024-01-08 - BoldBuild Briefing.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "000 - 📝 journal/_daily/W04/2024-01-26.md"
+    },
+    {
+      "basename": "2024-02-05",
+      "path": "000 - 📝 journal/_daily/2024-02-05.md"
+    },
+    {
+      "basename": "2024-W05",
+      "path": "000 - 📝 journal/_weekly/2024-W05.md"
+    },
+    {
+      "basename": "2024-W04",
+      "path": "000 - 📝 journal/_weekly/2024-W04.md"
+    },
+    {
+      "basename": "2024-02-04",
+      "path": "000 - 📝 journal/_daily/W05/2024-02-04.md"
+    },
+    {
+      "basename": "2024-02-03",
+      "path": "000 - 📝 journal/_daily/W05/2024-02-03.md"
+    },
+    {
       "basename": "2024-02-02",
-      "path": "000 - 📝 journal/2024-02-02.md"
+      "path": "000 - 📝 journal/_daily/W05/2024-02-02.md"
     },
     {
       "basename": "2024-02-01",
-      "path": "000 - 📝 journal/2024-02-01.md"
+      "path": "000 - 📝 journal/_daily/W05/2024-02-01.md"
+    },
+    {
+      "basename": "2024-01-31",
+      "path": "000 - 📝 journal/_daily/W05/2024-01-31.md"
+    },
+    {
+      "basename": "2024-01-30",
+      "path": "000 - 📝 journal/_daily/W05/2024-01-30.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "000 - 📝 journal/_daily/W05/2024-01-29.md"
     },
     {
       "basename": "This week's reads",
       "path": "This week's reads.md"
-    },
-    {
-      "basename": "2024-01-30",
-      "path": "000 - 📝 journal/2024-01-30.md"
-    },
-    {
-      "basename": "2024-01-31",
-      "path": "000 - 📝 journal/2024-01-31.md"
     },
     {
       "basename": "privacy_security_thoughts",
@@ -27,10 +71,6 @@
     {
       "basename": "Objectives'24",
       "path": "Objectives'24.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "000 - MY",
@@ -159,46 +199,6 @@
     {
       "basename": "PES - 17 Facility access controls implemented",
       "path": "002 - 📍 my/_projects/_hipaa/controls/013 - Physical & Environmental Security/PES - 17 Facility access controls implemented.md"
-    },
-    {
-      "basename": "PES - 16 Access control and validation procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/013 - Physical & Environmental Security/PES - 16 Access control and validation procedures implemented.md"
-    },
-    {
-      "basename": "IAC - 34 Workforce clearance procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 34 Workforce clearance procedures implemented.md"
-    },
-    {
-      "basename": "IAC - 33 Unique user identified",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 33 Unique user identified.md"
-    },
-    {
-      "basename": "IAC - 32 Person or entities authenticated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 32 Person or entities authenticated.md"
-    },
-    {
-      "basename": "IAC - 31 Information access managed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 31 Information access managed.md"
-    },
-    {
-      "basename": "IAC - 30 Termination procedures established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 30 Termination procedures established.md"
-    },
-    {
-      "basename": "IAC - 29 Emergency access procedures established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 29 Emergency access procedures established.md"
-    },
-    {
-      "basename": "IAC - 28 Log-off automated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 28 Log-off automated.md"
-    },
-    {
-      "basename": "IAC - 27 Workforce authorized and supervised",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 27 Workforce authorized and supervised.md"
-    },
-    {
-      "basename": "IAC - 26 Access established, reviewed and modified",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/009 - Identification & Authentication/IAC - 26 Access established, reviewed and modified.md"
     }
   ],
   "omittedPaths": [],

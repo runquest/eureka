@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Terminal",
+  "accentColor": "#6fddeb",
+  "cssTheme": "Spectrum",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
