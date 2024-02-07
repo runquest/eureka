@@ -33,15 +33,15 @@ In Progress
 7) LLM 
 8) Science Portal
 
-| Project | Product Requirements | Technical Documentation | Deadline | Delivery | 
-| -- | -- | -- | -- | -- |
-| HR Dashboard | *Look up JIRA* | *Technical Documentation* | *Deadline* | *Deliver* |
-| Site Restructuring | Look up JIRA | *Technical Documentation* | *Deadline* | *Deliver* |
-| Demo Reports | Look up JIRA | *Technical Documentation* | *Deadline* | *Deliver* |
-| Consolidating UI | Look up JIRA | *Technical Documentation* | *Deadline* | *Deliver* |
-| Report Hold Feature | Look up JIRA | *Technical Documentation* | *Deadline* | *Deliver* |
-| Health Score HotFix | Look up JIRA | *Technical Documentation* | *Deadline* | *Deliver* |
-| In Progress | Look up JIRA | *Technical Documentation* | *Deadline* | *Deliver* |
+| Project | Tickets | Product Requirements | Technical Documentation | Deadline | Delivery<br>(Deployed to production) | Notes |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| HR Dashboard | [CORE-66 Update Sidebar UI](https://molecularyou.atlassian.net/browse/CORE-66)<br><br>[CORE - 67 - Health score trend graph](https://molecularyou.atlassian.net/browse/CORE-67)<br><br>[CORE - 68 Longitudinal biomarker graph & information](https://molecularyou.atlassian.net/browse/CORE-68)<br> | [Provider Portal Report Changes Q1](https://molecularyou.atlassian.net/wiki/spaces/CORE/pages/505315329/Provider+Portal+Report+Changes+Q1+2024) |  |  | 2024-01-10<br><br>2024-01-31<br><br>2024-01-31 | This is the part of much  bigger [Epic CORE-65](https://molecularyou.atlassian.net/issues/CORE-65?jql=text%20~%20%22CORE-67%22%20or%20issuekey%20%3D%20%22CORE-67%22%20ORDER%20BY%20created%20DESC)  |
+| Site Restructuring | [EXP-65 Epic](https://molecularyou.atlassian.net/browse/EXP-65) | [Requirements](https://molecularyou.atlassian.net/wiki/spaces/ET/pages/505741367/Site+Restructure+doc) | [Technical Implementation](https://github.com/molecularyou/my-wiki/pull/4/files#diff-2434b6ba98cadbfbe65a21efbeadd26660d7092f6d51d89efa2a4ca93a4c38b7) |  | 2024-01-23<br><br>(og: 2024-01-18) | Aiste -> Why: Alan (MY Customer Success Coordinator) wants to access to different clinic’s provider portals so that he can provide supports when needed by directly accessing their portal. Currently, he needs 3 different email addresses to login to 3 different clinic’s provider portal. |
+| Demo Reports | [CORE-91](https://molecularyou.atlassian.net/issues/CORE-91) |  |  |  | 202-01-18 |  |
+|  |  |  |  |  |  |  |
+| Report Hold Feature |  |  |  |  |  |  |
+| Health Score HotFix |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 
 

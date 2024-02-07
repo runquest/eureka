@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Board Meeting",
+      "path": "003 - 🎾 vta/Board Meeting.md"
+    },
+    {
+      "basename": "000 - VTA",
+      "path": "003 - 🎾 vta/000 - VTA.md"
+    },
+    {
       "basename": "SyncDevProd",
       "path": "002 - 📍 my/_meetings/SyncDevProd.md"
+    },
+    {
+      "basename": "Testing",
+      "path": "Testing.md"
     },
     {
       "basename": "2024-02-06",
@@ -11,10 +23,6 @@
     {
       "basename": "2024-02-05",
       "path": "000 - 📝 journal/_daily/2024-02-05.md"
-    },
-    {
-      "basename": "Testing",
-      "path": "Testing.md"
     },
     {
       "basename": "Tasks",
@@ -191,14 +199,6 @@
     {
       "basename": "TMP - 10 Business associate agreements comply",
       "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TMP - 10 Business associate agreements comply.md"
-    },
-    {
-      "basename": "TPM - 9 Business associate agreements required",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/017 - Third-party Management/TPM - 9 Business associate agreements required.md"
-    },
-    {
-      "basename": "CPL - 10 Security controls evaluated",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/003 - Compliance/CPL - 10 Security controls evaluated.md"
     }
   ],
   "omittedPaths": [],

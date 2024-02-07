@@ -9,6 +9,7 @@
     "pain p.m.": "number",
     "Topics": "multitext",
     "created at": "date",
-    "Back Exercise": "checkbox"
+    "Back Exercise": "checkbox",
+    "data": "date"
   }
 }
