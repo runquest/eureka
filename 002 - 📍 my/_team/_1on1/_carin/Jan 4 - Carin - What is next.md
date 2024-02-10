@@ -34,5 +34,5 @@ WHERE !completed
 ### Action points today
 
  * [ ] Document: Vendor uploads
-* [ ] Document: Report release
+* [x] Document: Report release
 * [x] Give Access to Carin to Snowflake #aiste #my

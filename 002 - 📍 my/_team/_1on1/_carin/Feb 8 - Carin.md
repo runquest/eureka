@@ -3,23 +3,26 @@ aliases:
 tags:
   - 1on1
   - carin
-created at: 2024-01-11
+created at: 2024-02-08
 JIRA Filter: "[Carin JIRA](https://molecularyou.atlassian.net/issues/?filter=10024)"
 Topics:
 ---
 ----
 ### What is on Carin's mind?
 
-* Salary increase
+* Health report generation workflow documentation
+* No need to participate in Terry Meetings
+* 
+* 
 
+* Found bug when generating Demo reports - picking up some research data
 ### What is on Aiste's mind - talked about
-* Said that I will put forward salary request - we can ask but until we have money in the bank i have no guarantees
-* Shared about the DevOps hire
+* Salary increase - passed on to Gene
+* Talked about the *Hot fix* planning and work
 
 ### Projects
-* Documentation for Report release procedures
-* Demo accounts
-* Citation DB incorporation into Science portal
+- Hot Fixes:
+	- not clear fixes yet - When Windy arrives it will be more progress
 
 
 ### Action points from last meeting

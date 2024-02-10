@@ -38,6 +38,6 @@ WHERE !completed
 ```
 
 ### Action points today
-- [ ] put forward salary request to Gene
+- [x] put forward salary request to Gene
 
 
