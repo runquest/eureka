@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-12",
+      "path": "000 - 📝 journal/_daily/2024-02-12.md"
+    },
+    {
+      "basename": "2024-W06",
+      "path": "000 - 📝 journal/_weekly/2024-W06.md"
+    },
+    {
+      "basename": "2024-02-11",
+      "path": "000 - 📝 journal/_daily/W06/2024-02-11.md"
+    },
+    {
+      "basename": "2024-02-05",
+      "path": "000 - 📝 journal/_daily/W06/2024-02-05.md"
+    },
+    {
+      "basename": "2024-02-08",
+      "path": "000 - 📝 journal/_daily/W06/2024-02-08.md"
+    },
+    {
+      "basename": "2024-02-09",
+      "path": "000 - 📝 journal/_daily/W06/2024-02-09.md"
+    },
+    {
+      "basename": "2024-02-10",
+      "path": "000 - 📝 journal/_daily/W06/2024-02-10.md"
+    },
+    {
+      "basename": "Tech trees",
+      "path": "Tech trees.md"
+    },
+    {
+      "basename": "Newsletters-February",
+      "path": "Newsletters-February.md"
+    },
+    {
+      "basename": "2024-02-07",
+      "path": "000 - 📝 journal/_daily/W06/2024-02-07.md"
+    },
+    {
       "basename": "February 8 - Vlad",
       "path": "002 - 📍 my/_team/_1on1/_vlad/February 8 - Vlad.md"
     },
@@ -33,12 +73,8 @@
       "path": "002 - 📍 my/_team/_1on1/_skyler/February 6 - Skyler.md"
     },
     {
-      "basename": "2024-02-07",
-      "path": "000 - 📝 journal/_daily/2024-02-07.md"
-    },
-    {
       "basename": "2024-02-06",
-      "path": "000 - 📝 journal/_daily/2024-02-06.md"
+      "path": "000 - 📝 journal/_daily/W06/2024-02-06.md"
     },
     {
       "basename": "Board Meeting",
@@ -55,10 +91,6 @@
     {
       "basename": "Testing",
       "path": "Testing.md"
-    },
-    {
-      "basename": "2024-02-05",
-      "path": "000 - 📝 journal/_daily/2024-02-05.md"
     },
     {
       "basename": "Tasks",
@@ -167,38 +199,6 @@
     {
       "basename": "IRO - 13 Breach notice identification of individuals",
       "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 13 Breach notice identification of individuals.md"
-    },
-    {
-      "basename": "IRO - 12 Additional breach information",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 12 Additional breach information.md"
-    },
-    {
-      "basename": "END - 5 Workstation security implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/006 - Endpoint Security/END - 5 Workstation security implemented.md"
-    },
-    {
-      "basename": "BCD - 19 Emergency mode operation plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 19 Emergency mode operation plan established.md"
-    },
-    {
-      "basename": "BCD - 18 Disaster recovery plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 18 Disaster recovery plan established.md"
-    },
-    {
-      "basename": "BCD - 17 Data backup plan implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 17 Data backup plan implemented.md"
-    },
-    {
-      "basename": "BCD - 16 Data backed up and stored",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 16 Data backed up and stored.md"
-    },
-    {
-      "basename": "BCD - 15 Contingency plan tested and revised",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 15 Contingency plan tested and revised.md"
-    },
-    {
-      "basename": "BCD - 14 Contingency plan established",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/002 - Business Continuity & Disaster Recovery/BCD - 14 Contingency plan established.md"
     }
   ],
   "omittedPaths": [],
