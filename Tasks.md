@@ -1,13 +1,13 @@
 
 ##### Tasks from last week
-- make budget
-- Knowledge platform & documentation
-	- Deploy to S3
-	- Create GitHub actions for deployment
+- ~~make budget~~
+- ~~Knowledge platform & documentation~~
+	- ~~Deploy to S3~~
+	- ~~Create GitHub actions for deployment~~
 
 On a side note I also I need to review 
 * Jira board
-* Prepare for Dev + Product sync up meeting
+* ~~Prepare for Dev + Product sync up meeting~~
 
 * Set February Goals // +/- 1 hour
 
@@ -30,15 +30,15 @@ On a side note I also I need to review
 * Prepare for Dev + Product sync up meeting
 
 ##### Aiste Tasks
-* Set February Goals // +/- 1 hour
+* ~~Set February Goals // +/- 1 hour~~
 
-* 10K Steps // +/- 90 minutes
-* 3 BigBack Exercises // +/- 15 minutes 
-* Full body mobility routine // +/- 45 minutes
+* ~~10K Steps // +/- 90 minutes~~
+* ~~3 BigBack Exercises // +/- 15 minutes~~ 
+* ~~Full body mobility routine // +/- 45 minutes~~
 
-* Look for inspiration for some team solutions // +/- 2 hours
+* ~~Look for inspiration for some team solutions // +/- 2 hours~~
 * Write an article about January challenges // +/- 2 hours
-* Launch Sounding Board // +/- 1 hours
+* ~~Launch Sounding Board // +/- 1 hours~~
 ##### TO DO from journal
 ```dataview
 TASK 

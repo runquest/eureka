@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-15",
+      "path": "000 - 📝 journal/_daily/2024-02-15.md"
+    },
+    {
+      "basename": "Feb 15 - Carin",
+      "path": "002 - 📍 my/_team/_1on1/_carin/Feb 15 - Carin.md"
+    },
+    {
       "basename": "2024-02-12",
       "path": "000 - 📝 journal/_daily/2024-02-12.md"
+    },
+    {
+      "basename": "2024-02-13",
+      "path": "000 - 📝 journal/_daily/2024-02-13.md"
+    },
+    {
+      "basename": "2024-02-14",
+      "path": "000 - 📝 journal/_daily/2024-02-14.md"
+    },
+    {
+      "basename": "Feb-7-Erick 1",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Feb-7-Erick 1.md"
+    },
+    {
+      "basename": "Feb-7-Erick",
+      "path": "002 - 📍 my/_team/_1on1/_erick/Feb-7-Erick.md"
+    },
+    {
+      "basename": "Feb 14 - Ben",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 14 - Ben.md"
+    },
+    {
+      "basename": "Feb 6 - Ben",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 6 - Ben.md"
+    },
+    {
+      "basename": "February 14 - Skyler",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/February 14 - Skyler.md"
+    },
+    {
+      "basename": "February 6 - Skyler",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/February 6 - Skyler.md"
+    },
+    {
+      "basename": "Dec 21 - Skyler - End of year - what is next",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/Dec 21 - Skyler - End of year - what is next.md"
+    },
+    {
+      "basename": "January 24 - Skyler - State",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/January 24 - Skyler - State.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "2024-W06",
@@ -57,20 +109,12 @@
       "path": "Restaurants.md"
     },
     {
-      "basename": "Feb 6 - Ben",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 6 - Ben.md"
-    },
-    {
       "basename": "Jan 31 - Ben - Work in Progress",
       "path": "002 - 📍 my/_team/_1on1/_ben/Jan 31 - Ben - Work in Progress.md"
     },
     {
       "basename": "Feb 6 - Ravneet",
       "path": "002 - 📍 my/_team/_1on1/_ravneet/Feb 6 - Ravneet.md"
-    },
-    {
-      "basename": "February 6 - Skyler",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/February 6 - Skyler.md"
     },
     {
       "basename": "2024-02-06",
@@ -91,10 +135,6 @@
     {
       "basename": "Testing",
       "path": "Testing.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "2024-02-05 - BoldBuild Briefing",
@@ -159,46 +199,6 @@
     {
       "basename": "000 - MY",
       "path": "002 - 📍 my/000 - MY.md"
-    },
-    {
-      "basename": "Shannon",
-      "path": "Shannon.md"
-    },
-    {
-      "basename": "RSK - 10 Risks managed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 10 Risks managed.md"
-    },
-    {
-      "basename": "RSK - 9 Risks analyzed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 9 Risks analyzed.md"
-    },
-    {
-      "basename": "RSK - 8 Information system activity reviewed",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/014 - Risk Management/RSK - 8 Information system activity reviewed.md"
-    },
-    {
-      "basename": "IRO - 18 Timeliness of breach notification",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 18 Timeliness of breach notification.md"
-    },
-    {
-      "basename": "IRO - 17 Security incident procedures implemented",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 17 Security incident procedures implemented.md"
-    },
-    {
-      "basename": "IRO - 16 Security incidents identified and reported",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 16 Security incidents identified and reported.md"
-    },
-    {
-      "basename": "IRO - 15 Notification of breach",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 15 Notification of breach.md"
-    },
-    {
-      "basename": "IRO - 14 Group health plan security incidents reported",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 14 Group health plan security incidents reported.md"
-    },
-    {
-      "basename": "IRO - 13 Breach notice identification of individuals",
-      "path": "002 - 📍 my/_projects/_hipaa/controls/010 - Incident Response/IRO - 13 Breach notice identification of individuals.md"
     }
   ],
   "omittedPaths": [],
