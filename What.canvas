@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"711e4dac4cde9c18","x":-1020,"y":-540,"width":1250,"height":100,"type":"group","label":"MY"},
+		{"id":"b70be6a772462db2","x":-1000,"y":-520,"width":250,"height":60,"type":"text","text":"Platform Health"},
+		{"id":"d0936fe272d2328b","type":"text","text":"Platform Security","x":-680,"y":-520,"width":250,"height":60},
+		{"id":"4818dd5069db2ab6","type":"text","text":"Platform Compliance","x":-360,"y":-520,"width":250,"height":60},
+		{"id":"00866eba8b0bfb7d","type":"text","text":"Product Delivery","x":-40,"y":-520,"width":250,"height":60},
+		{"id":"0ff1cd4ffe2caefc","x":-600,"y":-360,"width":400,"height":181,"type":"file","file":"Screenshot 2024-02-20 at 2.12.10 PM.png"},
+		{"id":"9b6920349acb965c","type":"text","text":"Documentation","x":-1000,"y":-420,"width":250,"height":60},
+		{"id":"578431574472faab","type":"text","text":"Implementation","x":-1000,"y":-340,"width":250,"height":50}
+	],
+	"edges":[]
+}

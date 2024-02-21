@@ -3,7 +3,7 @@ aliases:
 tags:
   - 1on1
   - ben
-created at: 2024-02-14
+created at: 2024-02-21
 JIRA Filter: "[Ben JIRA](https://molecularyou.atlassian.net/issues/?filter=10015)"
 Topics:
 ---
@@ -20,6 +20,12 @@ Topics:
 
 ### What is on Aiste's mind - talked about
 
+- what's got accomplished
+- review the roadmap
+
+
+
+* thoughts through soft skill training
 
 ### Projects
 ##### Database Migrations
@@ -31,12 +37,5 @@ Database schema - created two tickets one for MYhi and one for MYnd - schema's b
 	4) Load back data
 #### Technical Debt
 * Update Health Report model with Display + Unit object 
-
-### Action points from last meeting
-```dataview
-TASK 
-FROM "002 - 📍 my/_team/_1on1/_ben"
-WHERE !completed
-```
 
 ### Action points today
