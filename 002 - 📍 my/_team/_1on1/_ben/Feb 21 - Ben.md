@@ -10,7 +10,6 @@ Topics:
 ----
 ### What is on Ben's mind?
 
-
 * For team: driftingruby.com
 * Performance optimization:
 	* JBuilder fro API Serialization
@@ -20,10 +19,36 @@ Topics:
 
 ### What is on Aiste's mind - talked about
 
-- what's got accomplished
-- review the roadmap
+- what's got accomplished ✔️
+- review the roadmap ✔️
 
 
+1) PDF Project
+2) Help Team
+3) Active + Action
+4) Policies
+5) Plan for Illuminati
+6) Rails 7.1
+--
+
+Confident dry run process
+80% Test coverage
+Seed Data
+Rabbit MQ - queueing system
+	Unbundling MYhi | MYnd
+Postgres
+	Better performance
+	Security
+	Composite index
+	PG Analytics
+MYnd not needed (?)
+GraphQL MYhi | MYnd (not so great with rails)
+~~Frontend separation~~ not needed with inertia
+MYhi Domain logic refactor
+Rails 7.2
+ActiveJob + Sidekiq
+ActiveMailer
+ActiveStorag
 
 * thoughts through soft skill training
 
