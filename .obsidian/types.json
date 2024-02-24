@@ -6,7 +6,7 @@
     "wake up": "datetime",
     "movement": "checkbox",
     "pain a.m.": "number",
-    "pain p.m.": "number",
+    "pain p.m.": "text",
     "Topics": "multitext",
     "created at": "date",
     "Back Exercise": "checkbox",

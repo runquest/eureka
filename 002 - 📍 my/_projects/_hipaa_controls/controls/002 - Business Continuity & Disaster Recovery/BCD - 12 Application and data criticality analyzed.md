@@ -1,7 +1,7 @@
 The company assesses the relative criticality of specific applications and data in support of other contingency plan components. 
 
 ### Relates
-[[Risk management policy]]
+[[Risk Management Policy]]
 
 ### Tests
 

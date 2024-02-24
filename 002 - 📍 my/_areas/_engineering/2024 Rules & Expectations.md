@@ -51,4 +51,4 @@ Is it in JIRA?
 
 ### Ideas
 - [ ] Should have a file with all testing accounts on Staging, Penguin and where not
-- [ ] How we validate or [[clean up data on staging & production]]
+- [ ] How we validate or [[Random Notes]]

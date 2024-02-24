@@ -1,5 +1,3 @@
-# Technical Roadmap 2024
-
 ## MYhi + MYnd Platforms
 - 80%+ Test Coverage
 - **Fix Query performance**

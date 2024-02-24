@@ -1,8 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "technical-roadmap",
-      "path": "002 - 📍 my/technical-roadmap.md"
+      "basename": "2024-02-24",
+      "path": "000 - 📝 journal/_daily/2024-02-24.md"
+    },
+    {
+      "basename": "2024-02-23",
+      "path": "000 - 📝 journal/_daily/2024-02-23.md"
+    },
+    {
+      "basename": "2024-02-22",
+      "path": "000 - 📝 journal/_daily/2024-02-22.md"
+    },
+    {
+      "basename": "2024-02-21",
+      "path": "000 - 📝 journal/_daily/2024-02-21.md"
+    },
+    {
+      "basename": "2024-02-20",
+      "path": "000 - 📝 journal/_daily/2024-02-20.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "900 - templates/Daily note template.md"
+    },
+    {
+      "basename": "1on1 template",
+      "path": "900 - templates/1on1 template.md"
+    },
+    {
+      "basename": "Feb 22 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Feb 22 - Vlad.md"
+    },
+    {
+      "basename": "Jan 25 - Vlad",
+      "path": "002 - 📍 my/_team/_1on1/_vlad/Jan 25 - Vlad.md"
+    },
+    {
+      "basename": "Feb 22 - Carin",
+      "path": "002 - 📍 my/_team/_1on1/_carin/Feb 22 - Carin.md"
+    },
+    {
+      "basename": "Newsletters-February",
+      "path": "Newsletters-February.md"
+    },
+    {
+      "basename": "Technical Roadmap 2024",
+      "path": "002 - 📍 my/Technical Roadmap 2024.md"
+    },
+    {
+      "basename": "Obsidian - team documentation management",
+      "path": "002 - 📍 my/_archive/Obsidian - team documentation management.md"
+    },
+    {
+      "basename": "Random Notes",
+      "path": "002 - 📍 my/Random Notes.md"
+    },
+    {
+      "basename": "Board Update February'24",
+      "path": "002 - 📍 my/Board Update February'24.md"
+    },
+    {
+      "basename": "Reviewing  Security & Compliance - GDrive",
+      "path": "002 - 📍 my/_projects/_hipaa_controls/Reviewing  Security & Compliance - GDrive.md"
+    },
+    {
+      "basename": "index",
+      "path": "002 - 📍 my/_projects/_hipaa_controls/index.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "This week's reads",
+      "path": "This week's reads.md"
     },
     {
       "basename": "Feb 21 - Ben",
@@ -19,10 +91,6 @@
     {
       "basename": "February 21 - Skyler",
       "path": "002 - 📍 my/_team/_1on1/_skyler/February 21 - Skyler.md"
-    },
-    {
-      "basename": "2024-02-21",
-      "path": "000 - 📝 journal/_daily/2024-02-21.md"
     },
     {
       "basename": "2024-02-15",
@@ -65,20 +133,12 @@
       "path": "002 - 📍 my/_team/_1on1/_ben/Feb 14 - Ben.md"
     },
     {
-      "basename": "2024-02-20",
-      "path": "000 - 📝 journal/_daily/2024-02-20.md"
-    },
-    {
       "basename": "What",
       "path": "What.canvas"
     },
     {
       "basename": "Screenshot 2024-02-20 at 2.12.10 PM",
       "path": "Screenshot 2024-02-20 at 2.12.10 PM.png"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
     },
     {
       "basename": "Tech trees",
@@ -117,20 +177,8 @@
       "path": "000 - MY.md"
     },
     {
-      "basename": "Board Update February'24",
-      "path": "002 - 📍 my/Board Update February'24.md"
-    },
-    {
-      "basename": "Newsletters-February",
-      "path": "Newsletters-February.md"
-    },
-    {
       "basename": "Objectives'24",
       "path": "Objectives'24.md"
-    },
-    {
-      "basename": "This week's reads",
-      "path": "This week's reads.md"
     },
     {
       "basename": "2024-02-12",
@@ -151,54 +199,6 @@
     {
       "basename": "2024-02-14",
       "path": "000 - 📝 journal/_daily/W07/2024-02-14.md"
-    },
-    {
-      "basename": "Feb-7-Erick 1",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Feb-7-Erick 1.md"
-    },
-    {
-      "basename": "Feb-7-Erick",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Feb-7-Erick.md"
-    },
-    {
-      "basename": "Feb 6 - Ben",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 6 - Ben.md"
-    },
-    {
-      "basename": "February 14 - Skyler",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/February 14 - Skyler.md"
-    },
-    {
-      "basename": "February 6 - Skyler",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/February 6 - Skyler.md"
-    },
-    {
-      "basename": "Dec 21 - Skyler - End of year - what is next",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/Dec 21 - Skyler - End of year - what is next.md"
-    },
-    {
-      "basename": "January 24 - Skyler - State",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/January 24 - Skyler - State.md"
-    },
-    {
-      "basename": "2024-W06",
-      "path": "000 - 📝 journal/_weekly/2024-W06.md"
-    },
-    {
-      "basename": "2024-02-05",
-      "path": "000 - 📝 journal/_daily/W06/2024-02-05.md"
-    },
-    {
-      "basename": "February 8 - Vlad",
-      "path": "002 - 📍 my/_team/_1on1/_vlad/February 8 - Vlad.md"
-    },
-    {
-      "basename": "Feb 8 - Carin",
-      "path": "002 - 📍 my/_team/_1on1/_carin/Feb 8 - Carin.md"
-    },
-    {
-      "basename": "Jan 18 - Carin - First weeks 2",
-      "path": "002 - 📍 my/_team/_1on1/_carin/Jan 18 - Carin - First weeks 2.md"
     }
   ],
   "omittedPaths": [],

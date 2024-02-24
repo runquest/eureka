@@ -1,21 +1,30 @@
 # Newsletters
 
-### Cezar @ Mix & Go
-### Vancouver Tech Journal
-### Dribbble
-### Ben Thompson
+
+#### Tech Specific
+- Ruby Weekly
+- This Week in Rails
+- TechCrunch
+- TLDR
+- TLDR Crypto
+- The Hustle
+#### Business News
+* Vancouver Tech Journal
+
+
+#### Long readsd
+* Ben Thompson
+* David Wallace-Wells
+
+
+#### Leadership
+* LeadDev originals
+- Oren Ellenbogen
+
+
 ### Jared Dashevsky, MD
-### TechCrunch
+
 ### Waking Up
-### Ruby Weekly
-### LeadDev originals
-### TLDR
-### TLDR Crypto
-### The Hustle
-### Oren Ellenbogen
-### This Week in Rails
-
-
 
 
 
@@ -24,10 +33,6 @@
 
 “Play by the rules, but be ferocious.” – Phil Knight
 “Become the kind of leader that people would follow voluntarily, even if you had no title or position.” – Brian Tracy, Author.
-
-
-
-
 
 
 #### New concepts
