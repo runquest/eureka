@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Key principles for services",
+      "path": "Key principles for services.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "basename": "This week's reads",
+      "path": "This week's reads.md"
+    },
+    {
       "basename": "2024-02-24",
       "path": "000 - 📝 journal/_daily/2024-02-24.md"
     },
@@ -67,14 +79,6 @@
     {
       "basename": "index",
       "path": "002 - 📍 my/_projects/_hipaa_controls/index.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Tasks.md"
-    },
-    {
-      "basename": "This week's reads",
-      "path": "This week's reads.md"
     },
     {
       "basename": "Feb 21 - Ben",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-02-13",
       "path": "000 - 📝 journal/_daily/W07/2024-02-13.md"
-    },
-    {
-      "basename": "2024-02-14",
-      "path": "000 - 📝 journal/_daily/W07/2024-02-14.md"
     }
   ],
   "omittedPaths": [],

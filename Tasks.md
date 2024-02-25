@@ -1,7 +1,6 @@
 ##### Questions to explore
 - [ ] What is *feeling myself*?
 
-
 ##### MY Tasks - From February 2nd (Friday)
 For work the most immediate projects that I want to complete:
 - Clear plan / roadmap for Security & Privacy team - I am 50% there. 
@@ -10,10 +9,10 @@ For work the most immediate projects that I want to complete:
 	- Threat Modelling Habits
 	- Certain standards - again take templates
 - Knowledge platform & documentation
-	- Deploy to S3
-	- Create GitHub actions for deployment
+	- ~~Deploy to S3~~
+	- ~~Create GitHub actions for deployment~~
 On a side note I also I need to review 
-* Jira board
+* ~~Jira board~~
 * Prepare for Dev + Product sync up meeting
 
 ##### TO DO from journal
