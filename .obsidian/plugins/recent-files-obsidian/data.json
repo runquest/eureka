@@ -1,14 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Summary",
+      "path": "900 - jobs/Summary.md"
       "basename": "2024-03-04",
       "path": "000 - 📝 journal/_daily/2024-03-04.md"
     },
     {
+      "basename": "Resume",
+      "path": "900 - jobs/Resume.md"
       "basename": "2024-02-15",
       "path": "000 - 📝 journal/_daily/W07/2024-02-15.md"
     },
     {
+      "basename": "Screenshot 2024-02-20 at 2.12.10 PM",
+      "path": "Screenshot 2024-02-20 at 2.12.10 PM.png"
       "basename": "2024-02-26",
       "path": "000 - 📝 journal/_daily/W09/2024-02-26.md"
     },
@@ -45,24 +51,24 @@
       "path": "Ash's Proposal.md"
     },
     {
-      "basename": "learning-okta",
-      "path": "learning-okta.md"
+      "basename": "Restaurants",
+      "path": "Restaurants.md"
     },
     {
-      "basename": "mom-april",
-      "path": "mom-april.md"
+      "basename": "Objectives'24",
+      "path": "Objectives'24.md"
     },
     {
       "basename": "Newsletters-February",
       "path": "Newsletters-February.md"
     },
     {
-      "basename": "Feb-29 - Erick",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Feb-29 - Erick.md"
+      "basename": "mom-april",
+      "path": "mom-april.md"
     },
     {
-      "basename": "Feb-7-Erick 1",
-      "path": "002 - 📍 my/_team/_1on1/_erick/Feb-7-Erick 1.md"
+      "basename": "learning-okta",
+      "path": "learning-okta.md"
     },
     {
       "basename": "2024-02-28",
@@ -75,30 +81,16 @@
     {
       "basename": "Feb 28 - Carin",
       "path": "002 - 📍 my/_team/_1on1/_carin/Feb 28 - Carin.md"
+      "basename": "Key principles for services",
+      "path": "Key principles for services.md"
     },
     {
-      "basename": "Feb 28 - Ben",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 28 - Ben.md"
+      "basename": "Everything I know to this point",
+      "path": "003 - 🎾 vta/Everything I know to this point.md"
     },
     {
-      "basename": "Feb 28 - Ravneet",
-      "path": "002 - 📍 my/_team/_1on1/_ravneet/Feb 28 - Ravneet.md"
-    },
-    {
-      "basename": "February 28 - Skyler",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/February 28 - Skyler.md"
-    },
-    {
-      "basename": "Feb 21 - Ravneet",
-      "path": "002 - 📍 my/_team/_1on1/_ravneet/Feb 21 - Ravneet.md"
-    },
-    {
-      "basename": "February 21 - Skyler",
-      "path": "002 - 📍 my/_team/_1on1/_skyler/February 21 - Skyler.md"
-    },
-    {
-      "basename": "Feb 21 - Ben",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 21 - Ben.md"
+      "basename": "Ash's Proposal",
+      "path": "Ash's Proposal.md"
     },
     {
       "basename": "Tasks",
@@ -109,20 +101,36 @@
       "path": "This week's reads.md"
     },
     {
+      "basename": "What",
+      "path": "What.canvas"
+    },
+    {
+      "basename": "Reflect every 6 weeks - Heartbeats",
+      "path": "_sources/Reflect every 6 weeks - Heartbeats.md"
+    },
+    {
+      "basename": "2024-03-02",
+      "path": "000 - 📝 journal/_daily/2024-03-02.md"
+    },
+    {
+      "basename": "2024-03-01",
+      "path": "000 - 📝 journal/_daily/2024-03-01.md"
+    },
+    {
+      "basename": "2024-02-27",
+      "path": "000 - 📝 journal/_daily/2024-02-27.md"
+    },
+    {
+      "basename": "2024-02-26",
+      "path": "000 - 📝 journal/_daily/2024-02-26.md"
+    },
+    {
       "basename": "Daily note template",
       "path": "900 - templates/Daily note template.md"
     },
     {
       "basename": "1on1 template",
       "path": "900 - templates/1on1 template.md"
-    },
-    {
-      "basename": "Feb 22 - Vlad",
-      "path": "002 - 📍 my/_archive/_vlad/Feb 22 - Vlad.md"
-    },
-    {
-      "basename": "Jan 25 - Vlad",
-      "path": "002 - 📍 my/_archive/_vlad/Jan 25 - Vlad.md"
     },
     {
       "basename": "Feb 22 - Carin",
@@ -153,8 +161,24 @@
       "path": "002 - 📍 my/_projects/_hipaa_controls/index.md"
     },
     {
+      "basename": "Feb 21 - Ben",
+      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 21 - Ben.md"
+    },
+    {
+      "basename": "Feb 21 - Ravneet",
+      "path": "002 - 📍 my/_team/_1on1/_ravneet/Feb 21 - Ravneet.md"
+    },
+    {
       "basename": "2024-02-11",
       "path": "000 - 📝 journal/_daily/W06/2024-02-11.md"
+    },
+    {
+      "basename": "February 21 - Skyler",
+      "path": "002 - 📍 my/_team/_1on1/_skyler/February 21 - Skyler.md"
+    },
+    {
+      "basename": "2024-02-15",
+      "path": "000 - 📝 journal/_daily/W07/2024-02-15.md"
     },
     {
       "basename": "2024-02-16",
@@ -193,12 +217,36 @@
       "path": "002 - 📍 my/_team/_1on1/_ben/Feb 14 - Ben.md"
     },
     {
-      "basename": "What",
-      "path": "What.canvas"
+      "basename": "Tech trees",
+      "path": "900 - articles/Tech trees.md"
     },
     {
-      "basename": "Screenshot 2024-02-20 at 2.12.10 PM",
-      "path": "Screenshot 2024-02-20 at 2.12.10 PM.png"
+      "basename": "Jeff Bezos + Lexi - Youtube 2 hour podcast",
+      "path": "900 - articles/Jeff Bezos + Lexi - Youtube 2 hour podcast.md"
+    },
+    {
+      "basename": "5 Blindspots Founders Need to Understand When Proving Product Market Fit",
+      "path": "900 - articles/5 Blindspots Founders Need to Understand When Proving Product Market Fit.md"
+    },
+    {
+      "basename": "Screenshot 2023-12-21 at 2.45.29 PM",
+      "path": "900 - images/MY/Screenshot 2023-12-21 at 2.45.29 PM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-21 at 2.45.50 PM",
+      "path": "900 - images/MY/Screenshot 2023-12-21 at 2.45.50 PM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-21 at 2.44.55 PM",
+      "path": "900 - images/MY/Screenshot 2023-12-21 at 2.44.55 PM.png"
+    },
+    {
+      "basename": "Screenshot 2023-12-21 at 1.27.44 PM",
+      "path": "900 - images/MY/Screenshot 2023-12-21 at 1.27.44 PM.png"
+    },
+    {
+      "basename": "W3 Meals",
+      "path": "900 - meals/W3 Meals.md"
     }
   ],
   "omittedPaths": [],
