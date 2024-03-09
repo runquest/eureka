@@ -3,9 +3,9 @@ data: 2024-02-06
 ---
 ##### Spring league [Men]
 
-- [ ] Captain + 6 names x 2 teams
-- [ ] Applying B2
-- [ ] We know captains.. 
+- [x] Captain + 6 names x 2 teams
+- [x] Applying B2
+- [x] We know captains..
 
 New and Returning Team Applications is **Friday, February 23rd**
 Captain's Meeting is scheduled for Wednesday, February 28th, at Burnaby Tennis Club (7:00pm).
@@ -29,7 +29,7 @@ Teams applying must have **a minimum of 10 players** on the application.
 
 
 
-- [ ] Not sure when to start panicking for the captains (?)
+- [x] Not sure when to start panicking for the captains (?)
 
 
 | Cup Name | Level | Dates | City | Location | Captain |

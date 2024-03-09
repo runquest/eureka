@@ -11,7 +11,7 @@
 [Miro board](https://miro.com/welcomeonboard/cmc0cG16eTJEOE15cEwyZDNiNURJcWZwNXFaVnFrTTY1VVJScDV5a2wwTld6elhsdExBT1R3eXY3cjNvVjhDbXwzNDU4NzY0NTc0ODU2Nzc3NzAyfDI=?share_link_id=713153333748)
 ### Action Points
 
-- [ ] Set up email lindsay@sboard.ca - she needs to change password and integrate with her outlook
+- [x] Set up email lindsay@sboard.ca - she needs to change password and integrate with her outlook
 - [ ] How much money I want to spent on this?
 - [x] Update website color pallette #sboard #aiste
 - [x] Update website #sboard #aiste

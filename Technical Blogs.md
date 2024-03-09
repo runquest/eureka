@@ -53,3 +53,32 @@ Maybe if I do it for other reason than work my motivation will be better?
 
 ### What are these:
 -> The classic t-test, the Kolmogorov-Smirnov test, and the Mann-Whitney test are all examples of fixed-n tests
+
+
+
+### Review
+
+[https://danielabaron.me/blog/working-towards-asynchronous-future/](https://danielabaron.me/blog/working-towards-asynchronous-future/) 
+
+Pull Requests
+
+When a pull request is submitted for review, the developer writes a detailed description including what the new code does, what areas of the project were modified, and most importantly, step by step instructions for the reviewer to exercise the code. Our review process includes not just providing feedback on the code, but also having the reviewer check out the branch and try out the new feature or bug fix on their laptops.
+
+This level of detail in the PR description eliminates the need for real-time discussion about what the PR does. Having the reviewer try it out means at least one other person besides the original developer gains an understanding of this feature beyond what merely scanning the code can provide.
+
+
+https://youtube.com/shorts/2kb_qX1BHiY?si=6jJpflOzeaQyH6ak
+[https://chelseatroy.com/2021/09/14/the-art-of-documentation/](https://chelseatroy.com/2021/09/14/the-art-of-documentation/)
+[https://danielabar.github.io/when/?ref=writesoftwarewell.com#/17/0/2](https://danielabar.github.io/when/?ref=writesoftwarewell.com#/17/0/2)
+[Software Metrics: A Guide for Modern Dev Leaders | Dev Interrupted Powered by LinearB](https://linearb.io/blog/17-software-metrics-for-modern-dev-leaders)
+[https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html](https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html)
+
+**Telling stories:**
+
+[https://longform.asmartbear.com/strategic-planning/?utm_source=leadershipintech&utm_medium=newsletter&utm_campaign=the-fairytale-narrative-structured-strategic-planning](https://longform.asmartbear.com/strategic-planning/?utm_source=leadershipintech&utm_medium=newsletter&utm_campaign=the-fairytale-narrative-structured-strategic-planning) 
+[https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model))
+
+**Something about security:**
+
+[https://nextjs.org/blog/security-nextjs-server-components-actions?utm_source=reactdigest&utm_medium&utm_campaign=1738](https://nextjs.org/blog/security-nextjs-server-components-actions?utm_source=reactdigest&utm_medium&utm_campaign=1738)
+[https://dev.37signals.com/navigating-personal-information-with-care/](https://dev.37signals.com/navigating-personal-information-with-care/)

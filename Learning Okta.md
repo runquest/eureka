@@ -1,5 +1,3 @@
-# Learning Okta
-
 
 - [ ] How is our Okta Admin account look like
 - [ ] What Okta services do we have

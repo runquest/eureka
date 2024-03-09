@@ -46,4 +46,4 @@ WHERE !completed
 
 ### Action points today
 
-- [ ] Aiste: Review cucumer.io #my #aiste
+- Aiste: Review cucumer.io #my #aiste

@@ -1,19 +1,19 @@
 ###### Immediate actions
-- [ ] Schedule a meeting with 
+- Schedule a meeting with 
 
 ###### Dig deeper
 
-- [ ] Read through the guidelines
-- [ ] Learn about GLTA
-- [ ] To learn history of tournaments
-	- [ ] Who won?
-	- [ ] What went well, what could be better?
-	- [ ] Who is coordinating travel & logistics or what not
+- Read through the guidelines
+- Learn about GLTA
+- To learn history of tournaments
+	- Who won?
+	- What went well, what could be better?
+	- Who is coordinating travel & logistics or what not
 ###### Questions
 
-- [ ] What level should players be?
-- [ ] How do know the player level?
-- [ ] When should we plan this Captain get together?
+- What level should players be?
+- How do know the player level?
+- When should we plan this Captain get together?
 
 1. NWC (Open / A) - May 18-19 2024 @ NVTC, Captains *Collin Koo and Patrick Rmeily*
     

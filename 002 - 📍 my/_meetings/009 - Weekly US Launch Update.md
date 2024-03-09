@@ -2,7 +2,7 @@
 #### Topic: OKRs for 2024
 ----
 ##### Tasks
-- [ ] Summarize *end of year* event #my #aiste
+- Summarize *end of year* event #my #aiste
 - [x] Do we have dummy accounts in production? #my #aiste
 - [x] Help Joe with People's OKRs
 ##### Thoughts

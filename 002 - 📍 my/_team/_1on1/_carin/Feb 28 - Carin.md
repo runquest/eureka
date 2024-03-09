@@ -11,6 +11,7 @@ Topics:
 ### What is on Carin's mind?
 
 * Carin leaving *May 10 - June 19*
+* Erick leaving *May 30 - June 19*
 * Townhall presentation ✅
 * Priorities:
 	* Seed data
