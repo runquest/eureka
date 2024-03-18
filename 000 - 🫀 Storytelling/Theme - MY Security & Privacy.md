@@ -3,8 +3,6 @@
 
 -> Security vs. Privacy
 
-
-
 -> Who needs to know what? What is relevant for engineer and what is relevant for customer success / account management team team? 
 
 

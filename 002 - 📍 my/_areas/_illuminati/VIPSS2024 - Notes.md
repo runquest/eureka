@@ -173,7 +173,7 @@ Time -> Expertise -> Volumes
 * Can we know that we are doing good job?
 	* Introduce quarterly risk reviews
 * Treating CyberSecurity - from Accounting/Finance
-* What's the formula to data on due dilligence?
+* What's the formula to data on due diligence?
 * Review: BILL C-26 individual fines
 
 

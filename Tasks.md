@@ -54,6 +54,7 @@ Meantime to recovery
 - #sounding-board What is the mission/purpose/plan? 
 - #money submit expenses for coffee + coveralls
 - #money submit expenses for physio
+- #dive rails 7.1 secrets management encrypted
 
 - #home ~~Laundry~~
 - #home Deep cleaning
