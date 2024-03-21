@@ -34,8 +34,11 @@ Meantime to recovery
 
 - Planning work as a separate board
 - ~~clean up DevOps board~~
-
-- 
+- DevOps Timeline
+- Make project managers better product owners // more micromanaging
+	- Thinks of how to do it: data - how tickets moved through the quarter
+	- Most problematic projects and why? 
+	- Product managers need to micromanage / prioritize / test - their name is on the features that go out
 - ~~#my Need Nova license - 129$/year~~
 - ~~Emailed~~ + ~~Book session with therapist Shelly~~
 - ~~Book Pilates sessions~~
@@ -86,6 +89,7 @@ Meantime to recovery
 * #my Andrews provider login issue
 * Why VPN is good or why we would get rid of it?
 * Dive into OWASP + CISO
+* #dive Do I like self hosted solutions? 
 
 
 - Draft SOP for Incident Response _MY_C_SOP_042.1_
@@ -97,7 +101,8 @@ Meantime to recovery
 - Haiyan to validate what labs do when they work with no information
 - All access to personally identifiable information will be logged to monitor authorized and unauthorized use, and logs must be kept for six years;
 - Task/Procedure: Records of all acknowledgements, agreements, and similar documents outlining employee responsibilities shall be maintained by Human Resources.
-
+* 5-6 hour course on SAML: https://owaspsamm.thinkific.com/courses/take/samm/lessons/46847522-welcome-to-samm-fundamentals
+* Read through Terry Report to understand it
 
 - #personal Will - ourselves
 - #personal Power of attorney
@@ -109,6 +114,7 @@ Meantime to recovery
 - How slot machines are built
 - Prohibition time - why?
 - Movie: Casino
+
 
 
 ## Done

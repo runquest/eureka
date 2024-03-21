@@ -4,13 +4,13 @@
 - it should matter which vendor - they need to switch profile
 
 - Onboard: cannot change my dark/light mode.
-- In dark mode poor txt visiblity
+- In dark mode poor txt visibility
 - Lack of gap between search and map
 - hitting on Logo should return me to the starting point
 
 - why do I get this "You are already signed in." flash message? I literally just signed in...
 - if I clear the input box - error should go away
-- back button is inconsisten - sometimes big - sometimes small, sometimes does not exist at all. 
+- back button is inconsistency - sometimes big - sometimes small, sometimes does not exist at all. 
 
 
 - are we okay with text in the tickets?: 

@@ -35,6 +35,66 @@ Check for Log line
 -> Is it clear and concise
 ### Assignment #2: Develop Your Blueprint
 
+==Idea 1.== I want to tell a story about *my leadership journey* so that I can...*create the vision for the legacy I will leave*
+##### Step 1. What's the story you want to tell?
+Leadership is caring deeply enough to be brave and take ownership. 
+
+##### Step 2. Write your Brief
+*Who's your audience?*
+People who feel stuck, who feel that leadership team is not making decisions fast enough or are making wrong decisions or making no decisions or focusing on the wrong things
 
 
+What was the latest adventure that we went on? 
 
+
+#### Community Hour
+Participants:
+- Liza (SF) - curious about her theme:
+	==Big idea==: Trans kids are just kids. Let them.
+	==Big idea 2==: Trans kids like ice-cream too. 
+- Trevin Wagner (Healthcare.gov) 
+	==Big idea:== Experiments Amplify the Impact
+- Leo Horn (Background with Lithuania)
+	==Big idea==: *Care* to dare.
+
+
+*Movie log line*
+A woman is on her first paddle boarding trip. The wave comes in she loses her paddle. Now she is at a mercy of nature.
+
+*Big Idea*
+e.g. 
+- Apple for 1st iPod: 1000 songs in your pocket
+- We have your backs
+
+Big Idea is "5 word story"
+
+
+*Brainstorm Big idea*
+
+Leadership is caring deeply enough to be brave and take ownership.
+
+
+1 that is 5 words or less
+1 that is 3 words or less
+1 that starts with "You" and the "You". is your audience
+1 as though your personal hero is saying it!
+1 as though you are trying to tell a 5 year old child about your idea
+
+Ask 5 Why's
+I like. I wish. I wonder. 
+
+Leadership is caring deeply enough to be brave and take ownership.
+
+It is your life - care. 
+Own it. 
+Leadership is earned and not given. 
+Just do it. 
+If you want something to change, do not ask for permission, show the way. 
+
+
+Care to dare. 
+
+
+*Feedback*
+What is it in for them?
+Make sure words match the energy. 
