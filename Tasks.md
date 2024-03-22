@@ -30,6 +30,7 @@ Meantime to recovery
 - Dive into Google Workspace
 - Dive into Snowflake
 - Dive into Diataxis framework
+- Dive - how is PenTest done?
 
 
 - Planning work as a separate board
