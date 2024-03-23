@@ -32,6 +32,12 @@ Meantime to recovery
 - Dive into Diataxis framework
 - Dive - how is PenTest done?
 
+- Read [Canada's National CyberSecurity Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/ntnl-cbr-scrt-strtg-en.pdf)
+
+
+- Enterprise Software needs and built a flow char / map. 
+  We need to start thinking about enterprise tools for CRM, Inventory tracking, Accounting and Billing.
+
 
 - Planning work as a separate board
 - ~~clean up DevOps board~~
