@@ -3,10 +3,10 @@
   "addToContextMenu": true,
   "createInstanceNearExistingOnes": true,
   "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "language": "",
-  "lastReadChangelogVersion": "3.10.0",
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
   "openChangelogOnUpdate": true,
@@ -126,6 +126,5 @@
       "type": "integrated",
       "useWin32Conhost": true
     }
-  },
-  "recovery": {}
+  }
 }

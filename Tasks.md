@@ -4,12 +4,10 @@
 #organize #write #dive
 
 ## Workspace
-#sounding-board #molecular-you #home #home #ideaou
+#sounding-board #molecular-you #home #ideaou
 
 ## Projects
-#strategy #illuminati #team #coding 
-
-
+#strategy #illuminati #team #coding #enterprisetools
 
 ### Metrics
 
@@ -20,7 +18,9 @@ Meantime to recovery
 
 ### Recurring
 
-- Complete 2/12 gym sessions
+- March: Complete 5/12 gym sessions
+
+
 
 ## Tasks
 - Dive into Cyber security theme
@@ -30,21 +30,16 @@ Meantime to recovery
 - Dive into Google Workspace
 - Dive into Snowflake
 - Dive into Diataxis framework
-- Dive - how is PenTest done?
-
-- Read [Canada's National CyberSecurity Strategy](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/ntnl-cbr-scrt-strtg/ntnl-cbr-scrt-strtg-en.pdf)
 
 
-- Enterprise Software needs and built a flow char / map. 
+- ➡️ Enterprise Software needs and built a flow char / map. 
   We need to start thinking about enterprise tools for CRM, Inventory tracking, Accounting and Billing.
 
-
-- Planning work as a separate board
-- ~~clean up DevOps board~~
-- DevOps Timeline
+- #team Planning work as a separate board
+- #molecular-you DevOps Timeline
 - Make project managers better product owners // more micromanaging
-	- Thinks of how to do it: data - how tickets moved through the quarter
-	- Most problematic projects and why? 
+	- #team Thinks of how to do it: data - how tickets moved through the quarter
+	- #team Most problematic projects and why? 
 	- Product managers need to micromanage / prioritize / test - their name is on the features that go out
 - ~~#my Need Nova license - 129$/year~~
 - ~~Emailed~~ + ~~Book session with therapist Shelly~~
@@ -90,13 +85,14 @@ Meantime to recovery
 - #52Frames Review materials + Submit photo
 - #my Create principles + values
 * #my Delete Accounts
-* #my Remove 90 days
-* #my Review new onboarding
+* ~~#my Remove 90 days~~
+* ~~#my Review new onboarding~~
 * #my Restrict Google Maps API Key
-* #my Andrews provider login issue
+* ~~#my Andrews provider login issue~~
 * Why VPN is good or why we would get rid of it?
 * Dive into OWASP + CISO
 * #dive Do I like self hosted solutions? 
+* #team prepare for Matt to join
 
 
 - Draft SOP for Incident Response _MY_C_SOP_042.1_
@@ -122,10 +118,13 @@ Meantime to recovery
 - Prohibition time - why?
 - Movie: Casino
 
-
-
-## Done
-
+➡️ 6-Pager for Privacy + Security strategy + goals + milestones
+➡️ 2x IDEO U Assignments
+6-Pager for Engineering team strategy + goals + milestones
+- 6-Pager for Engineering team strategy + goals + milestones
+- 6-Pager on Director of Engineering role
+- 6-Pager for Sounding Board strategy + goals + milestones
+- 52Frames photography: Reflection + Road + *this week's task*
 
 
 ----
