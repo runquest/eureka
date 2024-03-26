@@ -5,6 +5,14 @@
       "path": "000 - 📝 journal/_daily/2024-03-25.md"
     },
     {
+      "basename": "Resume",
+      "path": "900 - jobs/Resume.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "900 - jobs/Summary.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Tasks.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Feb 28 - Ben 1",
       "path": "002 - 📍 my/_team/_1on1/_ben/Feb 28 - Ben 1.md"
-    },
-    {
-      "basename": "Feb 28 - Ben",
-      "path": "002 - 📍 my/_team/_1on1/_ben/Feb 28 - Ben.md"
-    },
-    {
-      "basename": "March 13, 2024",
-      "path": "002 - 📍 my/_team/_1on1/_ravneet/March 13, 2024.md"
     }
   ],
   "omittedPaths": [],
